@@ -4,4 +4,6 @@ Video source from *[雅思真经第一课](https://www.bilibili.com/video/BV1c54
 
 ## Listening
 
-![avatar](D:\Github\LearningforIELTS\Figures\figure1.PNG)
+![Fig. 1](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/figure1.PNG)
+
+
