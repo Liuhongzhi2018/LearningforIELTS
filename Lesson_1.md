@@ -35,3 +35,42 @@ Section 3中高频场景包括图书馆学习，论文作业讨论，考前复�
 同义替换，指代语法，同位语等。
 
 resemble 等同于 like。阅读考点词538
+
+## 3. Writing
+
+* Task 1, 线（line）表（table）饼（pie）柱（bar），心中有数。理论用数据支撑。
+
+* Task 2, 议论文。
+
+正确理解官方四大评分标准：
+
+* TR， 回应任务
+
+* CC， 逻辑
+
+* LR， 词汇水平
+
+* GRA， 语法范围和准确度
+
+培养国外写论文的技巧。希望看到what's your opinion，培养个性思维。基于评分标准的15句逻辑写作，逻辑框架模板，准确通顺，言之有物。
+
+## 4. Speaking
+
+* Part 1， 5 mins， 陌生人介绍，国外酒吧场景
+
+* Part 2，1+2 mins， 拿到话题准备一分钟，回答2 mins
+
+* Part 3， 5 mins， 提问回答2 mins
+
+雅思口语真经总纲：背诵输入，句型为重，自然放松，逻辑沟通。I can still remember something that，I will never forget something that ...。雅思口语练习卡。
+
+## 5. 备考学习计划
+
+* 修炼内功，地道搭配，逻辑背词
+
+* 掌握技巧
+
+* 真题模考
+
+* 考前预测
+
