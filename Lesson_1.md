@@ -34,7 +34,7 @@ Section 3中高频场景包括图书馆学习，论文作业讨论，考前复�
 
 同义替换，指代语法，同位语等。
 
-resemble 等同于 like。阅读考点词538
+resemble 等同于 like。阅读考点词538, 剑雅7的第一套题的第三篇文章 Educating Psyche。
 
 ## 3. Writing
 
