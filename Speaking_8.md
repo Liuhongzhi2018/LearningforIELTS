@@ -2,7 +2,7 @@
 
 口语 Part 1
 
-1. Hometown
+7. Hometown
 
 7.1 what's (the name of) your hometown?
 
