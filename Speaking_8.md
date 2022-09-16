@@ -4,7 +4,7 @@
 
 7. Hometown
 
-7.1 what's (the name of) your hometown?
+7.1 What's (the name of) your hometown?
 
 Well，I come from Qingdao. Situated in the south part of Shandong province, Qingdao is an incredibly beautiful seaside city with many moods and faces.
 
