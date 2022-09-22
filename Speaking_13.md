@@ -2,7 +2,7 @@
 
 口语 Part 1
 
-1.   Public transportation 
+12.   Public transportation 
 
 12.1  What kind of public transportation do you usually take?
 
