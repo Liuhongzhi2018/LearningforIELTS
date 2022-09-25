@@ -2,6 +2,19 @@
 
 口语 Part 1
 
+Where are you from?
+
+I'm from Qingdao. (You know, it is a city in eastern Shandong Province on the east coast of China. Qingdao is the host city of sailing races of 2008 Beijing Olympic Games and of the 13th Paralympic Games, known as the Sailing City of China. It also won the reputations of the European-style city as "the Oriental Swiss".)
+
+Are you a student or do you have a job?
+
+I'm a student and I major in computer science. I've been studying this for one year already, so there're another three years to go before I graduate.
+
+Do you live in a house or flat/apartment?
+
+I live in a dormitory with three colleagues. It's not a very spacious one, but since it's only for us who lives there, it's big enough.
+
+
 1. Work
 
 1.1 Why did you choose to do that type of work?
