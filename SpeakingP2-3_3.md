@@ -4,7 +4,7 @@
 
 Part 2
 
-1.  Describe something you had to share with others. 
+3.  Describe something you had to share with others. 
 
 You should say:
 What it was
