@@ -4,7 +4,7 @@
 
 Part 2
 
-1.   Describe a person who likes to dress fashionably/well. 
+10.   Describe a person who likes to dress fashionably/well. 
 
 You should say:
 Who he/she is
