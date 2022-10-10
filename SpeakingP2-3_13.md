@@ -26,9 +26,9 @@ Part 3
 
 13.1 Is it important to take photos while traveling?
 
-Of course it is. As one travels around the world, he realizes that it is through photography that one can truly capture the experience and keep it saved for the rest of his life.
 
-<!-- 13.2 Can you trust other people's travel journals on the Internet?
+
+13.2 Can you trust other people's travel journals on the Internet?
 
 
 
@@ -36,7 +36,7 @@ Of course it is. As one travels around the world, he realizes that it is through
 
 
 
-13.4 Will you go to a foreign country to travel because of the distinct landscape? -->
+13.4 Will you go to a foreign country to travel because of the distinct landscaoe?
 
 
 
