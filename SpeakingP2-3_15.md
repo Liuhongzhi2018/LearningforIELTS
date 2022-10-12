@@ -4,43 +4,40 @@
 
 Part 2
 
-15.  Describe an important thing you learned (not at school or college). 
+16.   Describe an impressive English lesson you had and enjoyed. 
 
 You should say:
-What it was
-When you learned it
-How you learned it
-And explain why it was import
+What it was about
+When you had it
+What the teacher did
+And why you enjoyed the lesson
 
-Indeed, learning is life long process, and as an innovative person, I love to grab knowledge regarding every concept. Here, I would like to talk about an important thing I have learnt, not in school or college. That crucial thing is cooking. Actually, I have been interested in cooking since my childhood. So, I generally watch cooking videos on youtube and help my mother with kitchen chores.
+Well, I would like to share with you about a really pleasant experience in an English class I had at my university.
 
-I remember two months ago, there was my summer vacation. At that time, I was free from my academics. So I have decided to improve my culinary skills. As my mother gifted hand in cooking. She knows how to cook Italian, Chinese and Indian cuisines.
+During one of our grammar lessons, the regular teacher was sick so the school had to send in a teacher to cover her place. And the substitute teacher, Thomas Hall, delivered an amazing lecture in English about how he thinks we should all learn languages through watching films.
 
-My mother recommended me to learn baking as its the most important part of cooking. So, I started to learn baking first, then I learnt to cook Indian food. Because I think that cooking is an integral part of every individual's life as food is the basic necessity of human being.
+Throughout the two hours, he explained to us the process of learning a language and how films can serve as an effective way to immerse yourself in a language. Basic elements like vocabulary and grammar can be easily absorbed if we focus on dialog in a TV show, and so in the long run, our overall language skills can be improved. This method helps us to learn any language effortlessly and in a short period of time.
 
-Moreover, I want to go overseas for my higher education, and having knowledge about cooking would be fruitful for me. Besides, I followed a few cookery channels on youtube, which helped me alot.
+At first, we were all sceptical about the ideas he introduced, however, after watching a short video to practice and doing a trial test, we were all convinced that learning by watching movies was not hard at all and we could apply this to enhance our performance at school.
 
-Within one month, I learned all ins and outs of cooking and felt on cloud nine. Now, I can prepare different cuisines, which would be quite delicious. Overall, this is the pivotal thing I have learned from home and social media.
+I enjoyed this lesson so much because I find this method to be particularly effective for me. I always felt unmotivated when learning by traditional methods and my results were never desirable. But when I tried learning English using my favourite movies, you know what? My English got better and better and very soon I was able to remember thousands of new words and write really complicated essays. Now, I can even proudly say that I’m an intermediate English learner.
 
+<!-- Part 3
 
-Part 3
-
-15.1 What can children learn from parents?
-
-There are five fundamental things that children learn from their parents from an early age that will define their identity permanently. Being organized and clean is one of the first lessons children learn at an early age. This aspect is so important that even multiple species of animals teach their young how to groom by example since they instinctively relate it to survival or health. The same thing happens with us, humans – an orderly and clean environment provides health and peace of mind.
+16.1 What can children learn from parents?
 
 
-15.2 Do you think some children are well-behaved because they are influenced by their parents?
 
-Yes, of course I do. Children are certainly influenced by their parents' words and success comes from teaching details.
+16.2 Do you think some children are well-behaved because they are influenced by their parents?
 
-15.3 Is it necessary for adults to learn new things?
 
-Yes, it is. Not only can adults learn multiple new skills at the same time in the right environment and with the right beliefs, but doing so may improve their cognitive functioning considerably. Learning brought adults out of their comfort zones and made them feel fearless about new challenges.
 
-15.4 How can people learn new things?
+16.3 Is it necessary for adults to learn new things?
 
-Learning without a goal is much more tiring. Knowing what we are learning for allows you to focus better, and subconsciously helps you to filter and search for information based on the goal and choose the most useful ones that will maximize the effect of learning.
+
+
+16.4 How can people learn new things? -->
+
 
 
 
