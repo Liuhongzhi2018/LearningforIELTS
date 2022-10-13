@@ -1,4 +1,4 @@
-# Lesson 31
+# Lesson 32
 
 口语 Part 2 & Part 3
 
@@ -22,7 +22,7 @@ At first, we were all sceptical about the ideas he introduced, however, after wa
 
 I enjoyed this lesson so much because I find this method to be particularly effective for me. I always felt unmotivated when learning by traditional methods and my results were never desirable. But when I tried learning English using my favourite movies, you know what? My English got better and better and very soon I was able to remember thousands of new words and write really complicated essays. Now, I can even proudly say that I’m an intermediate English learner.
 
-<!-- Part 3
+Part 3
 
 16.1 What can children learn from parents?
 
@@ -36,7 +36,7 @@ I enjoyed this lesson so much because I find this method to be particularly effe
 
 
 
-16.4 How can people learn new things? -->
+16.4 How can people learn new things?
 
 
 
