@@ -4,7 +4,7 @@
 
 Part 2
 
-1.    Describe a story or novel you have read that you found interesting. 
+17.   Describe a story or novel you have read that you found interesting. 
 
 You should say:
 When you read it
