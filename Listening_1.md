@@ -71,4 +71,54 @@ one word or a number 1+1
 
 ## 3. 审题
 
-先看题号周围看完，再看词性
+先看题号周围看完，再看词性 
+
+## 4. 英音的发音
+
+剑桥12  P10 
+
+birds
+
+data
+
+schedule
+
+media
+
+during
+
+resources
+
+记住语料库的发音，1.6-1.8倍速练习
+
+真正对的个数 + 拼错 + S错 = 实力
+
+## 5. 如何对答案
+
+看听力原文，答案只有唯一
+
+
+## 6. 听力陷阱
+
+时态陷阱 will
+
+
+## 词汇积累
+
+extra cost 额外花费
+basic cost 基本花费
+uniform
+transportation
+meals
+breakfast
+lunch
+dinner
+brunch
+branch
+map
+mat
+tonight
+helmet
+some/their/any   不代表单词的单复数
+postcode    含数字和字母
+tempporary
