@@ -12,7 +12,15 @@
 
 
 
-16.3 Are there any different?
+16.3 Are there any differences between how Chinese name their children how and in the past?
+
+
+
+16.4 Does anyone in your family have the same name as you?
+
+
+
+16.5 Are their any names that are more poppular than others in China?
 
 
 

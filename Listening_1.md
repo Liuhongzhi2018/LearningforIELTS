@@ -1,0 +1,74 @@
+# Lesson 1 
+
+剑桥 11 12 13
+
+课后配合 13 14 8
+
+15 + 16 考前模拟
+
+6.5分：garden  computer  technology quarter bridge pottery whistle pharmacy poverty rats
+
+考前一周本
+
+听力问题S1S4
+解决方法
+选择题
+配对题
+地图题
+
+听力考试时间：9:00 - 9:30
+抄写答题纸时间：9:30 - 9:40
+
+Part 1
+Part 2  —— 地图题
+Part 3
+Part 4
+
+做对题数    分数
+  20        5.5
+  23        6
+  27        6.5
+  30        7
+  33        7.5
+  35        8
+  38        8.5
+
+
+## 1. 抄写答题纸要求
+40个答案字母大小写都可以
+
+日期标准写法
+Janunary 23, 2011
+23 Janunary, 2011
+Janunary 23
+23 Janunary
+
+8.30 pm/PM/P.M./p/m.四种都可以
+
+9 am  9.00 am
+
+注意单复数
+
+冠词a/an/the可以省略
+
+1st 2nd 3rd 11th 12th 13th 21st 22nd 23rd 31st
+
+a university
+a Europran country
+
+potatoes
+photos
+videos
+volcanoes
+radios
+heroes
+
+## 2. 注意
+
+不要试图翻译+听懂
+
+one word or a number 1+1
+
+## 3. 审题
+
+先看题号周围看完，再看词性
