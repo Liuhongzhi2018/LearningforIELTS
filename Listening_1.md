@@ -103,6 +103,12 @@ resources
 时态陷阱 will
 
 
+## 7. 听力练习
+
+3分-120小时
+0.5分-20小时
+
+
 ## 词汇积累
 
 extra cost 额外花费
@@ -121,4 +127,29 @@ tonight
 helmet
 some/their/any   不代表单词的单复数
 postcode    含数字和字母
-tempporary
+temporary
+permanent
+Africa
+Antarctica
+cheese
+sandwich
+peanuts
+hamburger
+Arbuthnot
+
+
+## 职业词汇
+练习3、4、5、11章
+
+A级：
+teacher nurse
+bus train taxi plane ship
+
+B级：
+accountant architect
+helicopter van ferry cab
+
+C级：语料库11章
+technician  secretray
+caravan balloon
+
