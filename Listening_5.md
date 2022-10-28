@@ -63,8 +63,7 @@ Rarely / minimal
 
 ## 4. 练习
 
-C11 
-
+C11
 1.review of literature 文献综述
 2.MLA         书写格式
 3.APA         书写格式
@@ -76,13 +75,19 @@ common room 公共休息室
 C12 T6
 media = 
 magazines, 
-newspaper,
-TV,
-radio,
-advertisement,
-website,
+newspaper, 
+TV, 
+radio, 
+advertisement, 
+website, 
 internet
 
+journalism
+more creative than ... X ...
+continue
+next term
+replaced
+the term after next
 
 
 
