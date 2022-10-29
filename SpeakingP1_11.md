@@ -15,3 +15,11 @@ After getting up, I have a shower first and then prepare the breakfast. Before l
 11.3 What do you usually do in the morning?
 
 I usually study in the morning. After a night's sleep, I normally feel very energetic and my concentration level is also at its peak, which enables me to absorb knowledge and memorize things more easily.
+
+11.4 What did you do in the morning when you were little? Why? 
+
+
+11.5 Are there any differences between what you do in the morning now and what you did in the past?
+
+
+11.6 Do you spend your mornings doing the same things on both weekends and weekdays? Why?

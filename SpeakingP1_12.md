@@ -15,3 +15,8 @@ I usually take public transport each morning and evening on weekdays, to go to t
 12.3 Do most people prefer public transportation in your country?
 
 Well… not really. I think most people find public transport in Chinese cities a bit overcrowded. Everyone would prefer to have their own car, in an ideal world. Though, public transport is very cheap, it's not always convenient.
+
+12.4 Did you take public transportation when you were a kid?
+
+
+12.5 Will there be more people taking public transportation in the future?

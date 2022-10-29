@@ -2,9 +2,9 @@
 
 口语 Part 1
 
-15.   Singing 
+15.   Snacks 
 
-15.1  Do you like singing? Why?
+15.1  What snacks do you like to eat?
 
 Actually, there are many kinds. You know, nuts and cereals are my favorite. I just can’t say no to the pistachios, cashews, walnuts and something like that, so sometimes I choose the bag of mixed nuts. And I just prefer to have cereals with some yoghurt, like two or three times a week.
 

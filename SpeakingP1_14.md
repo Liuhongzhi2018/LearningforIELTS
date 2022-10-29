@@ -17,3 +17,5 @@ No, I've never learned to sing. I just sing a song as I like. Well, sometimes, I
 My answer is definitely yes. If someone has a talent for singing, he or she will probably feel great sense of achievement to finish the whole song. And when somebody’s stressed out, singing is like a way to blow off some steam. And the same goes for everyone who is in bad mood. Singing the songs with bouncy tunes is likely to lift the spirits.
 
 Yes, definitely. Singing helps us to express emotions when we’re uncomfortable doing so in conversation. This can be done by humming a tune or by singing lyrics that resonate with us. Though not all the emotions are ‘happy’ ones, releasing them through songs helps us feel better.
+
+14.4 Who do you want to sing for?
