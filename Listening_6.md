@@ -120,4 +120,11 @@ SEPTEMBER 17，2012
 6.30 p.m.
 6.30 pm
 
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
 
