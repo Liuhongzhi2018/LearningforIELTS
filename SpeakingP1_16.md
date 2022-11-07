@@ -6,7 +6,7 @@
 
 16.1  Does your name have any special meaning?
 
-
+In my name, Hong means "swan goose", which means that my parents want me to have great ambitions, and Zhi means "wisdom and intelligence", which means that I should be knowledgeable and full of wisdom.
 
 16.2  How would you choose names for your next generation?
 
