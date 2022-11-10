@@ -19,7 +19,6 @@ My father took his picture near a famous stone tablet which was inscribed with a
 Well, I felt extremely excited to have a picture like this. One of the reason is that it has a perfect composition. You know the nice posture, the unique tablet, and the stunning background view of the Great Wall are something worth showing off to my friends. It also made me feel grateful when I looked at the picture. You know, being able to go to Beijing and appreciate one of the great wonders of the world at that time was a luxurious thing for my peers.
 
 
-
 Part 3
 
 7.1 Why do some people like to record important things with photos?
@@ -32,9 +31,8 @@ For many people, collecting antique and historical photographs is a hobby but hi
 
 7.3 Is taking photos the best way to remember something?
 
-Taking photos is not the perfect memory-retention tool. Snapping too many pictures could actually harm the brain's ability to retain memories. As with information, when we take pictures we're offloading the responsibility of remembering onto an external device. we're so distracted by the process of taking a photo that we miss the moment altogether.
+Taking photos is not the perfect memory-retention tool. Snapping too many pictures could actually harm the brain's ability to retain memories. As with information, when we take pictures we are offloading the responsibility of remembering onto an external device. we are so distracted by the process of taking a photo that we miss the moment altogether.
 
+7.4 Which is better, taking photos or keeping a diary?
 
-
-
-
+I think it's better to keep a journal. Taking photos can record people and scenery, but it doesn't record the mood in written form. And keeping a diary helps us to sort out the ideas or inspirations that are jumbled up in our heads, and to capture them in writing, so that we can retain them.

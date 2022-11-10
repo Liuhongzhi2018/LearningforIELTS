@@ -32,14 +32,6 @@ I would not. Because if the climate in other cities is too different, it will ta
 
 My favourite kind of weather would definitely be a warm spring afternoon with a light breeze. I like weather that is temperate and mild, the kind of weather you can lay down in and relax. I perfer such weather to wind, rain and snow. Because I like to spend my time outdoors and there kinds of weather prevent me from doing that.
 
-
-
-
-
-
-
-
-
 3.8 Do you think the weather can affect people's moods?
 
 Yeah it definitely can. Some people have a thing called seasonal depression where for example, during the winter months they are depressed throughout that whole period but they get better when spring comes along.

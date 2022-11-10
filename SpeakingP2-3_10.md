@@ -39,6 +39,12 @@ No, I don't think. In recent years, we see a lot of news about online cheating, 
 
 Fashion is one of those things that we usually take for granted. Wearing a well-styled outfit, everyone gives you a second glance and tells you how good they think your clothing looks on you.
 
+10.3 Are older people as fashionable as young people? Why?
 
+Older people are often uninterested in fashion and more interested in what looks good on them or what is comfortable. They want you to say "you look very nice" rather than "that is a nice outfit". They often find the idea of "fashion" a manipulaton to make people buy more stuff.
 
+Fashion is for the young. Older people already have a full closet of things they like.
 
+10.4 Are women more fashionable than men? Why?
+
+Fashion is the practice of being able to bring out the temperament from the inside out through autonomous dynamics. Women seem to have awakened to the love of beauty earlier than men and are therefore more fashion conscious.

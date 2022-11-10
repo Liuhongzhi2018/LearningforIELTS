@@ -26,20 +26,16 @@ Part 3
 
 13.1 Is it important to take photos while traveling?
 
-
+Yes, of course. It's always a great idea to take a few snaps of nature, the landscape, the sightseeing, the wonderful landmarks, and monuments, or even some interesting and colorful people. The best photographs are the pictures I take while traveling, especially abroad. There are so many wonders to discover, that I can't wait to get started again.
 
 13.2 Can you trust other people's travel journals on the Internet?
 
-
+I think the travel logs shared by others on the Internet can be used as a reference, but you can't trust them completely, you also need to make trade-offs according to the actual situation.
 
 13.3 What factors affect how people feel about traveling?
 
+Your mindset determines everything, your mindset determines your initial intention for travel, and thus choose your favorite way of travel, to reach your favorite destination, noisy or quiet, follow your heart. Let you do not pretend not vain, not floating on the surface, so that the meaning of travel really into the heart.
 
+13.4 Will you go to a foreign country to travel because of the distinct landscape?
 
-13.4 Will you go to a foreign country to travel because of the distinct landscaoe?
-
-
-
-
-
-
+Yes, I will. Because some foreign attractions and buildings are not available in China, such as Notre Dame, the Eiffel Tower and the Louvre in France, which have both long historical features and modern technology.

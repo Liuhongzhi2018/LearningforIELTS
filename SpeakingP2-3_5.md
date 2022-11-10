@@ -24,3 +24,12 @@ Yes, of course. All successful people set goals, so goal setting must be a worth
 
 Each person has its own idea of success. It depends on our present situation, on our role models, upbringing, and how we see the world around us. And also on the limitations we set for ourselves. And while most people measure success in terms of money and possession, there are certainly individuals (or even organizations, and many of them) who have completely different criteria. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 
+5.3 How can we judge whether young people are successful nowadays?
+
+I think it's common in my country that success is measured based on how much money people earn. If a person has a lot of money and properties, he is definitely considered a successful person. I think there are no differences in other countries. When you search for the list of the most successful people in the world, the results you get are likely to be the names of rich businessmen.
+
+Undoubtedly, different person holds different views about success. I guess the majority people would consider success equal money, fame, reputation, and high social status. But I do know some people who pursue different kinds of things, for example, some scholars, they would regard the success as one tiny bit of development in knowing more about the world, in exploring more about the knowledge boundary of human beings. For me, one common creature of a million, I think success means going to bed with this sense of achievement and fulfillment every single day.
+
+5.4 Are successful people often lonely?
+
+Successful people see things, always see more thoroughly than the average person. However, once these things are thoroughly seen, there is nothing interesting to speak of, since he has already known the results, there is nothing worth him to do, so successful people, will be more lonely. Successful people's heart is lonely, because the road to success is lonely, the premise of success is that the heart should be strong and lonely, reached the peak, will lose the pursuit, reached the peak no longer rely on, of course, is lonely.

@@ -24,19 +24,35 @@ I enjoyed this lesson so much because I find this method to be particularly effe
 
 Part 3
 
-16.1 What can children learn from parents?
+16.1 Why do people learn foreign languages?
 
 
 
-16.2 Do you think some children are well-behaved because they are influenced by their parents?
+16.2 What makes a good foreign language teacher?
 
 
 
-16.3 Is it necessary for adults to learn new things?
+16.3 Do you think grammar is important when learning foreign languages?
 
 
 
-16.4 How can people learn new things?
+16.4 Is it interesting to be a foreign language teacher?
+
+
+
+16.5 What can children learn from parents?
+
+
+
+16.6 Do you think some children are well-behaved because they are influenced by their parents?
+
+
+
+16.7 Is it necessary for adults to learn new things?
+
+
+
+16.8 How can people learn new things?
 
 
 

@@ -38,4 +38,6 @@ Knowing, recording, and preserving your family history directly impacts you, you
 
 No, it isn't. Because an appointment is a promise that should not be broken because of the good or bad of the person you are about to meet.
 
+9.4 Which is more important, a work-related appointment or an appointment with a friend? Why?
 
+I think it's more important to date your friends. Because work-related dating often makes people feel constrained and the communication is formal. But a date with a friend allows you to talk about what you want and open up.

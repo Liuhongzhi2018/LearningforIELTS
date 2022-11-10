@@ -22,9 +22,21 @@ Well, although the dress is not that convenient to wear because it's very long a
 
 Part 3
 
-6.1 What beautiful scenery spots are there in your country?
+6.1 Do you think there are more beautiful things now than in the past? Why?
+
+ No, I do not think that things are more beautiful now than in the past because in ancient times, everything was handmade and handicraft, and it had its own value, while in the present time, things are made by machinery, and they are not long-lasting.
+
+Nowadays, things are more fashionable and facilitating, but longevity is relatively low as compared to the past.in short, things have become more precious, beautiful, and artistic in the past years.
+
+6.2 What beautiful scenery spots are there in your country?
 
 China's vast and diverse territory endows the country with some of the most beautiful natural scenery on earth. From the picturesque karst landscape in Guilin and Yangshuo to the precipitous pillars in Zhangjiajie, from the Rainbow Mountains in Zhangye to the holy high land of Tibet, China's diverse natural beauty is as impressive as it is splendid culture.
 
+6.3 Where do you think people usually come into contact with beautiful things?
 
+People like to keep beautiful objects in their homes and offices as showpieces. They generally get them from the décor shops in the malls. 
+
+6.4 Why do you think people create beautiful things?
+
+People create beautiful things to express their creativity. Some people also say that art is a form which connects us with our spiritual being. With the help of art people can also connect with each other.
 
