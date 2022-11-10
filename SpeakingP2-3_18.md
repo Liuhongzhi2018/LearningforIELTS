@@ -20,27 +20,23 @@ I think that was very nice and the coach was really friendly and professional. H
 
 So after several classes gradually I got used to the feeling and I was able to swim by myself. Now I will go to that swimming pool to practice my swimming skills from time to time. I really like that place because that’s where I learned swimming.
 
-
 Part 3
-
 
 18.1. Do young people like to do sports?
 
-
+Yes, young people love sports because they're a lot of fun and playing sports is very important for their health. I find that sports are also a great way to spend time with friends.
 
 18.2. What are the benefits of sports for children?
 
-
-
+There are many merits of children doing sports. As a starter, sports can benefit both children's physical and mental health. For example, running and jumping are prone to trengthen kids' bones and muscles, which can help them to grow stronger and taller. At the same time, doing sports can be relaxing and stress-busting. Additionally, it can help improve children's social ability, especially in some team sports. For example, playing football games or table tennis can bring kids opportunities to meet new friends.
 
 18.3. Is it necessary to build public sports spaces?
 
-
-
+Of course, it is. The construction of public sports facilities is an important element in building a public service system for national fitness, and is a basic condition for people to participate in national fitness. If corresponding sports facilities are not effectively provided, most sports and fitness programs are difficult or even impossible to carry out. A complete public sports facility is conducive to driving the masses to physical fitness and promoting the sustainable and healthy development of the national fitness cause.
 
 18.4. What do you think of companies donating sports venues for poor children?
 
-
+The companys' donation will bring up more loving people to pay continuous attention and care to the education and spiritual growth needs of children in poor areas, giving them a healthy personality, spiritual enlightenment and abundant thoughts. With the passage of time and the accumulation of their experiences, its long-term effects will be magnified step by step, going beyond their immediate solid life and projecting into their future life, bringing magical changes to the development and construction of their homes, mountain villages and hometowns.
 
 
 

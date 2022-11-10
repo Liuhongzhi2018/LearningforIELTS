@@ -34,7 +34,6 @@ Well, I guess a good customer support agent needs to be a product expert. They s
 
 Well, the most apparent distinction is the price. If you buy something online, it’s usually way cheaper. And that’s so true when it comes to books. There could be at last a 40% discount online compared with the brick-and-mortar stores, Another difference is the attitude. Off line shopping can be pleasant due to the hearty smile and attentive service. But online customer interactions are not face to face. It’s easy to misinterpret the tone of written communication, which can come across as cold.
 
-
 19.3. What problems do customers often have while shopping?
 
 The biggest problem is to find the best product within their budget. They have to find the middle ground between the cost and the quality. Another problem is that the shop owner will exaggerate the features of the products and twist your arms to buy what you don’t need. Sometimes the customers will have to choose from the products which don’t live up to the hype.
