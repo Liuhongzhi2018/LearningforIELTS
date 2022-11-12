@@ -27,18 +27,18 @@ In the beginning, I started with just a few tomatos. But with grandpa’s guiden
 Part 3
 
 
-20.1. Are there many people growing their own vegetables now?
+21.1. Are there many people growing their own vegetables now?
 
 Growing your own produce in your garden is a simple way to ensure you always have fresh, delicious fruits and vegetables at your fingertips. The cost of living crisis has prompted some people to cut food bills by growing their own fruit and vegetables. Main idea: Developing a green thumb is a way to pass the time for some people.
 
-20.2. Do you think it's good to let kids learn how to plant?
+21.2. Do you think it's good to let kids learn how to plant?
 
 Planting activities foster the spirit of exploration. For children, the natural environment can more directly support their independent exploration, and planting activities are real and natural, vibrant and varied. Planting activities foster a sense of responsibility in children, and they are happy to see the seedlings grow up. At the same time, when they see the seedlings growing worms, they can actively think of ways to protect the bean seedlings, which is their sense of responsibility and love, and through this method they can develop their sense of responsibility.
 
-20.3. What do you think of the job of a farmer?
+21.3. What do you think of the job of a farmer?
 
 Farmer is an ancient occupation, and it is one of the ancient occupations for the survival of early human society. Human survival necessitated the need for food, and human development was largely determined by the ancient occupation of farmer.
 
-20.4. What are the differences between traditional and modern agriculture?
+21.4. What are the differences between traditional and modern agriculture?
 
 Agriculture is a huge industry that has evolved throughout time. Agriculture includes the art and science of cultivating plants, animals, fungi, and other life forms with natural resources such as water, soil, air, and sunlight to provide food for humans. Traditional agriculture relies on methods such as crop rotation or hand weeding which can be difficult to maintain in today’s world where there are more than 7 billion people on Earth vying for increasingly scarce land and resources. Modern agriculture uses mechanized equipment like tractors and combines to harvest crops quickly which saves labor costs but may not produce food as efficiently or environmentally friendly as traditional farming methods.
