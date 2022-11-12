@@ -32,7 +32,11 @@ The boss is usually the role of giving orders, dominating the work and making pe
 
 31.3. Which one is more important, keeping a good relationship with colleagues or doing well at work?
 
+On the one hand, having relationships with your peers can have a direct impact on our professional success. Coworkers who have positive relationships with one another are more likely to perform well when working together on a project. Collaboration among team members typically results in less ambiguity in communication, and everyone is more clear on exactly what their specific tasks are.
 
+On the other hand, effective workers get exciting projects, win important clients, and are well respected by their colleagues and bosses. Being truly effective at work can pay off now and throughout our careers. Effective workers are often the most respected and the most productive in their workplaces, and they're often the first to be considered for a promotion. 
 
 31.4. What benefits are there when a child is popular at school?
+
+A student who is popular on his or her own merits is generally a happy, well-adjusted individual. These students are friendly, talk to everyone, do well with academics and set a good example. Their peers look up to them because they are admired for their positive traits. These students will be more well liked by most of their peers.
 
