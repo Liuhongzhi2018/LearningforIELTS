@@ -33,11 +33,16 @@ Taking part in national celebrations is a way of showing people's patriotism, to
 
 36.2. What kind of events do people usually celebrate?
 
-
+There are quite a few personal events that people usually celebrate but I think the most common ones are people’s birthdays and their graduation dates. Obviously, everybody loves to celebrate their birthdays, as it is a whole day spent celebrating them. Birthdays are always lovely occasions. Yet, people also often celebrate their graduations as this is a day of significant achievement fbr them, and thus deserves to be celebrated. People usually celebrate milestones of personal achievement.
 
 36.3. Do people often celebrate events with a large group of people or just a few people?
 
+For older people, family parties in my country are mostly organised to celebrate a special occasion and to spend some quality time with the people we care about. For instance, we invite our relatives, friends, colleagues and neighbours to our house to rejoice a family member's birthday, engagement, marriage anniversary or graduation day. We often like to gather on such a party to celebrate a religious festival, to congratulate someone’s promotion or to welcome a newborn baby.
 
+For the young, they prefer holding parties with a large group of friends. When friends are together at a party, they shout, listen to loud music, do not care about strict manners and often go wild. These are not the case in a family party where our parents and elder relatives are present.
 
 36.4. Do people often celebrate festivals with families?
 
+Yes, they do. People usually celebrate festivals with families, such as Spring Festival. They will have a great dinner during the Spring Festival evening and, at the same time, enjoy the Spring Festival Gala held by CCTV. You know, the routine hasn't changed since I was a kid, but I enjoy the quality time with them.
+
+Our daily schedules keep us away from our close friends and relatives. Festivals bring us together, it gives a good time to rejoice and built strong bonds between everyone. Celebrating festivals with everyone can help our kids to meet and greet everyone as well as they can learn the importance of togetherness. It brings us closer to everyone and makes our time wonderful and spiritual.
