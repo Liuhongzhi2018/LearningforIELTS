@@ -39,6 +39,6 @@ Of course, it does. Being tech savvy can help save much time. For students, stud
 
 Yes I do, time management is a vital skill for all of us, including kids. If they can take up this skill from an early age, they can be more productive and disciplined later on. A very effective way to do this is to get your kids to create their own daily/ weekly or even monthly schedule.
 
-27.4. Do people who can manage time well become successful more easily?
+44.4. Do people who can manage time well become successful more easily?
 
 Not exactly but I definitely believe that people’d have a better chance of being successful if they manage their time well. The reason for this is that if you manage your time well, you can be more productive, either at work or school. And more work finished means more results! I mean you can look at all the successful people around the world and 99% of them know how to manage their time.

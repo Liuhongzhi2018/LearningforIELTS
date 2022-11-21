@@ -18,4 +18,4 @@ No, actually I am the kind of person who always would like to cut off and abando
 
 30.4 Where do you usually keep things you need?
 
-I usually keep my most important things and the things I use most often at hands such as small baskets or boxes. I create a place for almost everything and I don't like to leave things everywhere. Generally, everything I need has its own storage box because I want to keep things in order把. So, in this way, I find things more easily if I need them.
+I usually keep my most important things and the things I use most often at hands such as small baskets or boxes. I create a place for almost everything and I don't like to leave things everywhere. Generally, everything I need has its own storage box because I want to keep things in order. So, in this way, I find things more easily if I need them.
