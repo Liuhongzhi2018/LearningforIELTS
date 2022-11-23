@@ -1,82 +1,314 @@
 # Lesson 1 
 
-口语考试流程：
+## 雅思阅读基本原则
 
-见到考官问候：Hi! How are you!
-回答：Good!
-进考场后，考官先坐自己后坐。记住考官名字。Nice to meet you, (考官名字).
+阅读先看题，定位快寻觅，两种题后做，优先细节题，同义替换多，单词有灵犀。
 
-Can I have your full name, please?
-My full name is L. H.Z..
+雅思阅读基本原则。原文和题目的同义替换原理。优先做细节题（Summary，T/F/NG等）；顺带做出段落中心题、段落信息匹配题。
 
-Where are you from?
-I'm from Beijing.
-(I'm from Shanxi province. You know, it's in the north of China, quite close to Shan'xi, where you can see the Terra Cotta Warriors.)
+读文章如何读得快
+读的懂的读慢，读不懂的读快
+扩大视距
+跳读
+变速
 
-Are you a student or do you have a job?
-I am a student in Southeast University and I major in computer science. I've been studying this for one year already, so there's another three years to go before I graduate.
-(I have a job and I work as an Ielts speaking teacher. I've been doing this for five years already and I suppose this is gonna bee my life-long career.)
+### 真题顺序
+1篇文章有2~4种题型，13道题目。3篇文章40道题目。
 
-Do you live in a house or flat/apartment?
-I live in the school dormitory. It's not a very spacious one, but since it's only four persons who live there, it's big enough.
+顺序 1：正序
+各题型按原文顺序设计（C8-T2-R1=P41）：①没有 Heading 和 Which paragraph
+顺着题型和题号顺序，在原文中边读边做。
 
-注意：回答不用太长。
+顺序 2：混搭（常考）
+各题型乱序组合（C8-T1-R1=P18） ② 先 Heading（乱序），优先细节题 ③ 先 （Matching）Which paragraph（乱序），优先细节题
+Step 1：看标题，看题目
+Step 2：划定位词
+Step 3：做题
 
-评分标准：
+## 雅思真经阅读法
 
-fluency and coherence (流利度、连贯性)
-lexical resource (词汇资源)
-grammatical range and accuracy (语法广度与准度)
-pronunciation (发音)
+注意 + 基础回顾
+C7-P18  1-2-3-6--9-5-10--13-4
+C6-P22  18-19
+读得懂的读快，读不懂的读快
+文章一遍读完
 
-## 1. Part 1
-4-5 mins, 8-10 questions
-3个, Your basic information + every day topics + likes and dislikes.
+目的：文章一遍读完，所有题目做完。最难题型：选自然段中心Heading、是非判断T/F/NG、信息段落匹配​。
+Step 1：看文章标题，看题型分布
+Step 1-1：段落中心题（Headings）、段落信息匹配题（Paragraph Matching）为第一题型时，读文章每段时优先完成第二题型。
+（注意：不同题型间交叉混合解题）
+Step 2：慢速读懂题目，划出题型中前两道题中的定位词（Key words）
+优先做细节题（Summary，T/F/NG等）；顺带做出段落中心题、段落信息匹配题。
+Step 2-1：匹配题型（内部乱序出题）：画出该题型中所有题的定位词，打包记忆查找
+Step 2-2：其余题型（内部顺序出题）
+如果T/F/NG题目数量≥5，则是对全文出题，与其他题目出题点顺序混合。
+Step 3：回原文阅读查找，边读边做。快速阅读，对比阅读。
+
+## 三种Keywords
+
+正确选择定位词（3类Key words）
+
+### 定位词：题目中的单词，能代表题目的特点（文章主题词不能作为定位词）。通过Keywords能快速定位找到该题原文出处。
+
+1 特殊词汇：数字、大写、特殊符号、长相怪异的词
+（吸引眼球）
+
+2 朴素词汇：简单、具体的词
+（好理解、容易记、同义词少）
+
+3 逻辑词汇：表示重要的语法结构
+（并列、转折、因果）
+
+眼球词汇：时间、数字、大写
+逻辑关系词汇：转折、并列
+朴素级词汇：替换词少的单词
+
+### 3类Vocabulary
+
+主题词（6类）
+suggestopedia
+模板词：account，description，reference，statement，mention
+描述，提及
+考点词（538）：coin，fertilise，resemble（=look like）
+
+### 6类Grammer
+定语从句
+主语从句
+从句嵌套
 
 
-## 2. Part 2
-3-4 mins, 1 questions, describe something.
+## 雅思真经标注法
+
+句子题、段落题、匹配题
+① 用双下划线画出某题目定位词在原文的出处
+② 用下划线画出题干中对应原文中的所有同义词
+③ 用圈画出原文中答案词
+
+## 三种题型
+
+1. which praragraph contains the following information 乱序
+2. Heading 
+3. 完全顺序
+
+###  单词题
+Summary，Sentence Completion，Short Answer，Table Completion，Flowchart。考察的不是空格本身，而是空格前后重要的信息（名词或动词）在原文中的同义替换。​（摘要，句子填空，简答题，表格填空，流程图）
+填词 有规律，前后找痕迹，并列需细查，生词不用疑，难度为中等，变换四种体。
+单词填写题考查单词理解，是细节题，优先做，有4种衍生形式，原理一样。出题概率10/40。
+1 从原文选词填空完成摘要（Summary）
+（概率最大）
+Step 1：确定整个Summary在原文的出处
+①看题型描述中是否已给出信息。
+（e.g. The summary below is based on Part C of the passage.）
+②看Summary的题型位置。
+Summary较少作为题型1出现。题型2：对文章中间的1~3段的总结。题型4：对文章末尾的1~3段的总结。
+③定位Summary首句中的Keywords，在原文中查找。
+Step 2：判断所需空格词性
+注意不考介词、连词、代词、冠词。
+名词（n.）
+（80%）
+动词（v.）
+（10%）
+形容词（adj）、副词（adv）、数词（num）
+（10%）
+Step 3：根据空格前后信息在原文中锁定答案
+填词有规律，前后找痕迹
+“空格前后信息”：空格前后重要的单词，特别是名词（n.）
+“锁定答案”——夹心饼干原则：用空格前后单词（“两块饼干”）锁定空格（“心”）在原文的出处。
+注意空格前后单词（“两块饼干”）的同义替换。
+Step 4：填完后通读一遍Summary
+NB（注意）
+① 空格答案有字数限制
+（e.g. Use NO MORE THAN THREE WORDS）
+② 空格答案符合原文顺序原则
+有可能出现1~2题倒序。
+③ 一个Summary题中会设置1~2道难题
+④ 空格答案有可能需要变换原文单词的词性
+⑤ 空格答案经常是高难词或生词
+生词不用疑
+⑥ 该题型重点考察空格前后的单词对应原文中的同义词理解
+填词有规律，前后找痕迹
+
+2 从题目后面的单词列表中选词填空完成摘要
+可能比题型1多做一次同义替换理解：原文答案次和正确选项的同义替换。
+Step 1-3：同题型1
+Step 4：在题目后面的单词列表中选择出原文答案或原文答案的同义表达
+根据空格前后信息在原文中锁定答案后
+
+3 从原文选词填空完成句子
+可理解为一句话Summary题型。
+Step 1-3：同题型1
+
+4 从原文选词回答问题
+题目为what，which，who，where，when，why，how等引导的疑问句
+what（n.）；who（人名）；where（地名）；when（时间）；how/why（找due to，thanks to，based on，by等介词后的名词）
+
+### 填表填图题
+
+一见笑眯眯，順藤能摸瓜，按图可锁骥，答案常集中，原是送分题。
+
+难度低，出现概率少。原理和填词题有相通之处。题目设计局限于表格逻辑结构；围绕事物的流程原理。
+
+1 填表题
+① 顺序原则
+展示了文章的思路和叙述逻辑。
+② 空格所填答案与上下左右信息的关系
+这是信息的衔接感觉。
+
+2 填图题
+填图题是针对原文中描述事物工作原理、工作流程的段落文字出题。
+① 答案有集中性特点
+原文中各部件工作原理会集中描写。
+② 图表题先以简单题作为突破口
+观察图标特点，判断出简单题
+③ 答案大多为名词（n.）
+
+3 选图题
+出现概率极小。
+① 观察图表，注意区别性特征
+② 回原文定位做题，注意描述性单词
+（长、宽、高、形状等）
+
+### 句子题
+T/F/NG、Multiple Choice选择题。中等题型。
+判断 实不难，真假未提及，末题少驳斥，首题少NG。我有七种意，天下剑桥题。
+T/F/NG考察句子理解，题量较大。议论文采用Y/N/NG，说明文采用T/F/NG，做题方法无区别。出题概率12/40，多分布在2篇文章中。
+
+四项注意
+要点 1：放慢速度，读懂题目
+要点 2：90%顺序原则：一次读2道题，记忆这2道题的Keywords，再回原文查找做题。
+题型内部90%的题是对应原文顺序出题的，偶尔1道题肯能会出现乱序。
+要点 3：常见题目中考点
+考点：题目中出现only，all，most，first，比较级/最高级，比较结构（more...than...）、数字、因果关系等
+要点 4：首题不蒙NG，末题不蒙FALSE
+
+TRUE题命题规律
+T1单句同义改写
+（50%，易）题目是对原文中一句话的同义替换改写。可以找到3组以上的同义替换。
+T2相邻句子归纳
+（45%，中）题目是对原文信息（相邻的两个句子或同一自然段中上下文信息）的归纳总结
+T3 不相邻句子归纳
+（5%，难）题目是对原文中不同自然段中信息归纳总结
+
+FALSE题命题规律
+F1 反义词设置
+（60%，易）题目和原文出现了一组反义词设置（after-before、impossible-likely/possible、many-only）
+F2 关系型驳斥（常见：因果关系）
+（40%，难）题目中描述的关系或事实驳斥原文描述
+
+NOT GIVEN题命题规律
+NG题目：根据原文无法确定，或题目描述是原文的一种可能性。
+关系型NG2出现在前面题目，具体信息未提及NG1出现在后面题目
+NG1 题干中前面或后面的信息不存在
+（50%，易）题目陈述句中前或后的信息原文没有提及（大多是具体名词如：government，country，doctor，scientist，capital等）
+NG2 题干中间描述的关系不存在
+（50%，中）题目中描述的关系原文没有提及（如：比较关系more than等）
+
+### 多选和单选
+ 
+多选找并列，单选 是TURE题，如遇选标题，末段加大意。
+出题概率：不是每次考试都出现。
+
+1 单选题
+​（ABCD单选）单选题是选TRUE的表达，即正确选项和题干组合在一起，成为一个TRUE的表达句子。难度低于T/F/NG。
+Step 1：画出题干中Keywords
+！！！不要用选项中Keywords定位，那是排除法做题。
+Step 2：回原文定位
+正确选项2种命题规则
+① 对原文中的一句话同义改写
+② 对原文上下文归纳
+
+2 多选题
+​（五选二、七选三等）多选题是针对原文中的并列结构出题，尤其是原文中的并列句。
+正确选项：原文并列项之一的同义改写
+
+3 选标题
+​（全文中心思想）选标题重点看原文末段（全篇的结论和总结）。
+正确选项：在原文末段
+
+### 段落题
+
+上下文阅读和归纳能力，难题。
+
+段落选标题，连锁不简单，段中找两点，中心藏后边。
+Headings段落中心题是唯一出现在文章之前的题型，要求阅读自然段，选出自然段中心思想，相对较难，容易连锁错。出题概率6/40，通常只针对1篇出题。
+
+四项注意
+要点 1：首先划掉例子中对应的heading
+要点 2：随时划掉选过的heading，不可再选
+要点 3：难题最后用排除法做
+要点 4：每个段落中包含的细节题先做，该段的heading最后选
+（细节题：summary，T/F/NG等）
+
+1 中心句对应法
+解题方法①：针对阅读基础好的考生，能清晰辨认自然段中心句，或者当某个自然段本身中心句明显时使用。
+找出每个自然段的中心句，看哪个heading是这句话的缩写。
+自然段首句总结
+自然段首句设问
+举例前的观点句
+转折词所在句子
+强调句型或有强调语气词所在句子
+起定义功能的句子
+下一自然段首句
+中心藏后边
+
+2 关键词对应法
+解题方法②：针对基础薄弱的考生，阅读完一个自然段后没有印象，或者当某个自然段本身中心句不明显时使用。
+看Heading中Keywords在哪个自然段中出现频率最高。
+段中找两点。List of Heading题型简化成单词匹配题，不需要理解整个自然段含义。
+
+### 匹配题
+匹配 乱序多，定位找同义，段落含信息，小心有NB。
+Matching匹配题对考点词的要求高，主要考察信息查找定位和同义词理解，强调在原文中查找细节信息的能力。形式上是句子，实际上是词汇。出题概率8/40。
+
+1 句子信息与段落匹配
+标志：Which paragraph contains the following information?
+不与heading同时出现
+Step 1：读题，画出所有Keywords，并短暂记忆
+乱序，不能按题号顺序做题，要打包做题。
+Step 2：看下一题型，记忆下一题型中的Keywords
+通常作为第一题型出现。
+Step 3：回原文从首段开始阅读，优先选做其他题型在该段落中的题目。最后做句子信息与段落匹配。
+该题型题目应最后完成。
+Step 4：段落中出现Keywords的同义词，即可选择
+不是选段落中心思想，是选信息包含，所以只要有，就可选。
+注意：NB ➜ 有段落会被选两次
+NB You may use any letter more than once.
+
+2-1 关系型匹配（单词短语）
+常考人名和他们各自不同的理论、事物和他们的特点匹配。简单，会出现简洁、明显的Keywords，能在原文中迅速查找定位。
+Step 1：读题，画出所有Keywords，并短暂记忆（打包）
+Step 2：阅读原文时标记出Keywords出现的位置
+Step 3：阅读Keywords所在的句子，向前向后各多读一句话
+Step 4：原文句子中的某单词与题干单词是同义替换，即可选择
+
+2-2 关系型匹配（句子）
+​选项多，选项长（是句子）。不需要细读选项，直接做题即可。
+Step 1：直接通过题干Keywords回原文定位
+忽略选项。一道一道做题，可能乱序。
+Step 2：记住原文的表达，选出符合原文描述的选项
+选出该选项并划掉。
+Step 3：打包做题
+两种命题方式：顺序、乱序。打包做题，先做有把握的，后用排除法。
+
+## 无招胜有招
+
+莫夸境界高，无招胜有招，三剑已合璧，笑看雅思谜。
+
+## 雅思阅读考点词库
+
+《剑桥雅思阅读考点词真经》538个雅思阅读考点词+3000高中词汇
 
 
-
-## 3. Part 3
-4-5 mins, 4-5 questions, general questions related to Part 2.
-
-
-## 4. 方法
-
-* 流利度、连贯性 fluency and coherence：逻辑扩展法 + 语感 + 一定量的语言标语（连接词等）
-* 词汇lexical resource：idiomatiic vocabulary + 其他词汇
-* 语法Grammatical range and accuracy：“150句”中的句型和句子复杂结构 + 练习
-* 发音pronunciation：模仿“150句”音频 + 其他音频模仿
-* 印象：first impression (first 2 minutes) —— 自信(眼神、语调、肢体语言)、流畅、无错、特别
-
-滚瓜烂熟，融入血液，融入骨髓。
-
-## 5. 逻辑扩展法
-
-* P1 + P3，都是问答题，能扩展则充分扩展，不能扩展则自信停下。
-
-回答逻辑：
-1. 回答(用完整句子回答，可以适当重复考官问题)
-2. 表现(时间、地点、人物、事件、感受)/解释(前因后果、逻辑递推——前后、因果逻辑)
-3. 宽泛-具体：细节/举例/回顾过去(时间、地点、人物、事件、感受)
-4. (和第3步可以互换位置)、反例（假设上述例子不存在或没有发生的结果)
-5. 总结 (so, so yeah)
-
-
-## 6. 表现
-* 时间
-* 地点
-* 人物
-* 事件
-* 感受
-
-
-结束时候
-告别考官：Have a nice day! (考官名字)
-回复：You too.
-
-## Idiomatic vocabulary 30大习惯语表达
-
-熟练背诵，用词汇逆袭法
+## word
+other than = not only
+avoid dying out = manage to survive
+military use = weapon, sunbmarine
+limb = arm or leg
+calculate = arm or leg
+finding = detection
+inaccurate = incorrect
+refer to = talk about
+because = since
+word = term
+first used = coined
+rather = very
