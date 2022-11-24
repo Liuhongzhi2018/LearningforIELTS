@@ -21,6 +21,7 @@
 
 顺序 2：混搭（常考）
 各题型乱序组合（C8-T1-R1=P18） ② 先 Heading（乱序），优先细节题 ③ 先 （Matching）Which paragraph（乱序），优先细节题
+
 Step 1：看标题，看题目
 Step 2：划定位词
 Step 3：做题
