@@ -1,4 +1,4 @@
-# Lesson 1 
+# Lesson 2 
 
 ## 雅思大作为完成步骤
 
@@ -37,50 +37,8 @@
 2. 不要加入主体段没有的信息
 
 
-## 提高方法
 
-提高语法：1.改错练习，2.翻译
-提高观点：1.真题库
-提高论述：1.观点库
-提高用词：1.词伙库，2.中式翻译练习
-提高阅读：1.新闻报料
-
-
-## 三个步骤
-
-基础句型
-修饰名词
-各种从句
-
-一篇议论文包括：
-1个介绍段
-2-3个核心段，考官看重
-1个总阶段
-
-学习具体议论文前，应该了解如何顺畅地扩展核心段
-从一个topic sentence 到一个完整核心段，形成闭环论证逻辑
-
-
-## 扩展方法
-
-1.与题目紧密相关，不能随心所欲，一般来自原题或者个人观点
-如果原题或者个人观点内容很详细，你只需要改写（不可避免会重复，不用担心）
-如果内容很笼统，你就需要稍微往下细化
-
-2.在往下细化的时候，TS必须是一个自己有把握能扩展的方向，否则写不动。
-
-3.大部分情况下Topic sentence会是一个明确的结果或者明确的建议，偶尔可以用一个事实或者趋势来作为TS，但主要用在分析原因来的题目中。
-
-## 扩展TS方法
-
-1.论证一个好处或者坏处
-明确的影响作为TS-原因分析-举例、对比、反向假设-扣回TS
-2.一个段落多分论点的展开（一般出现在dicussion或者outweight）
-带着信号词（some、several、two、three）的笼统型TS-第一个分论点+解释-第二个分论点+解释
-3.分析一个原因（几乎只出现在report）
-用事实、趋势作为原因TS-结果、举例-结果
-
-## 优缺点类型题目练习
+## 练习
 
 University and colleges are now offering qualifications through distance learning from the Internet rather than face-to-face interaction in the classroom. Do you think the advantages of this development outweigh the disadvantages?
 
