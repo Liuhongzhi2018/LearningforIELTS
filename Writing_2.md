@@ -40,7 +40,7 @@
 
 ## 练习
 
-University and colleges are now offering qualifications through distance learning from the Internet rather than face-to-face interaction in the classroom. Do you think the advantages of this development outweigh the disadvantages?
+Advertisements . Do you think the advantages of this development outweigh the disadvantages?
 
 University and colleges: higher education, tertiary education, educational institutions/establishments
 
