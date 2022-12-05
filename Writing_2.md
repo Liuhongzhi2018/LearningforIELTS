@@ -17,7 +17,11 @@
 
 第二步：想观点和筛选观点（3-5 min）
 1. 思考观点的角度，观点不要重复，不要举例
-2. 判断观点的标准，恰当性、合理性、广泛性、唯一性
+2. 判断观点的标准，
+   恰当性：是否符合题目的要求，是否考虑利益影响最大
+   合理性：是否有逻辑，是否有力度，循环论证
+   广泛性
+   唯一性
 
 第三步：写开头段（1 min）不重复、别墨迹
 1. 换词，替换词、换表达、换词性、具体化、定语从句、反义词
@@ -31,46 +35,98 @@
    要素1：连接，代词、改写部分内容或者出现的关键词，连接词（并列，对比，举例）
    要素2：出现关键词，题目关键词，中心句子关键词
    要素3：出现因果关系，原则1字数少的放前面，原则2结果放前面，逻辑关系成立
+   前果后因，1状语从句，2定语从句，3名词性从句
+   前因后果，1if/when，2主语+which/句末+which，3thereby/thus doing 分词结构，4so
 
 第五步：写总结段
-1. 改写开头段李常居
+1. 改写开头段立场句
 2. 不要加入主体段没有的信息
 
 
 
-## 练习
+## 练习 Advertisements
 
-Advertisements . Do you think the advantages of this development outweigh the disadvantages?
+Advertisements encourage consumers to buy in qunantity rather than promote quality. To what extent do you agree or disagree?
 
-University and colleges: higher education, tertiary education, educational institutions/establishments
+金钱角度：
+A 广告强调购买是社会需求 B 人们不断购买才可以获得快乐 C 买买买
+A 广告利用我们的情感需求 B 人们不断购买才可以获得快乐 C 买买买
+A 广告关注我们的实际需求 B 强调产品符合我们的需求 C 推广质量
 
-offering qualifications: provide courses, run courses, deliver courses, give opportunities to obtain degrees/certificates/diplomas
+Advertisements： commercials, advertising, advertising campaigns, advertisers, advertising firms, marketers.
 
-distance learning: online learning, online education/courses, on the Internet
+Encourage: persuade, sway, influence, brainwash
 
-interation: communication, teaching, give instructions
+Consumers: the public, shoppers, buyers, people, intended consumers, target market, customers/clients
 
-classroom: lecture hall, classroom settings/environment, traditional settings
+Buy in qunantity: spend lavishly on, shopping spree, shopaholics, compulsive shopping, shop excessively, buy more than they need
 
-Many young people today attend online courses to obtain a degree without going to lectures in person. The advantages of this move certainly outweigh its disadvantages.
+Promote quality: pay attention to quality, focus on quality, durable, keep for long, as good as new, made of good material, meet practical needs, perform functions 
 
-（A网络上课 B提高效率，C提高学习效果）
-（A-C-因为B）
-（解释A-B）
-（解释A-B）
-（解释B-C）
-Online courses may have better learning outcomes for some people because they are an efficient way of receiving education. These courses minimise the time students spend going to lecture halls, thereby increasing study hours. Online lessons are also recorded, meaning that students can pause, rewind and forward a lecture as they like. They can focus their attention to key concepts, theories and information, which can be digested more effectively. In contrast, lectures in traditional classrooms distribute time evenly to each chapter, possibly not suitable for students of different levels and needs.
-
-（A B给人们更多的灵活性，C对人们的职业有好处）
-（解释A-B）
-（解释B-C）
-（解释B-C）
-Online education also provides valuable opportunities to advance one's career because it offers considerable flexibility. Those who sign up for there courses can watch lessons whenever and wherever it is convenient. They do not need to take a career break or make other personal sacrifices to pursue a degree since they do not need to go to another city or country. The overall cost of obtaining a qualification is relatively small, as it does not incur travel and accommodation expenses. A strong academic background paves the way for a brilliant career in modern times, when knowledge is a key driver of economic growth.
+There are concerns that shoppers today have been persuaded to buy more than they need and pay less attention to quality. This is very likely to happen in the modern world, although this may not be true in some cases (although consumers are more sensible when buying some products). 
 
 
-（A B只能关注知识本身，C学到的东西有限）
-（解释A-B）
-（解释B-C）
-On the other hand, distance learning may not be able to yield some benefits of education in traditional settings as it(online education) conveys knowledge only. Participants of this programme give priority to the content of each lecture, or even assessmenets, which decide whether they can graduate. They miss out on the opportunity to study with excellent peers and receive instructions from renowned scholars, from whom they can draw inspiration in styles of communication, study habits, dedication and character. The qualities of these role models sometimes make a stronger impact than qualifications.
+（A 广告强调购买是社会需求 B 人们不断购买才可以获得快乐 C 买买买）
+（解释A-B：人是社会动物，他们很在意身边人的看法和习惯，他们希望遵守某些习惯来获得归属感）
 
-In conclusion, Internet-based education can improve career prospects for many although it may not replicate conventional means of receiving education in every benefit.
+Advertising explore consumers' social needs to induce them to overspend by conveying the message (since buyers tend to believe) that they can derive pleasure from this shopping habit. 
+
+People are social animals, who are sensitive to opinions of their peers and prone to conform to the norms of groups they think they belong to. 
+
+Advertisers take advantage of this psychological trait and portray a product or service as trendy, so more people make the same purchase. Sometimes, some products are marketed as markers of a social class or group, so members of this group usually pursue the ownership of these goods such as hi-tech gadgets, stylish outfits and high-end cosmetics that are popular among high-income earners. These buyers pay less attention to whethers these products are durable or safe.
+
+（A 广告关注我们的实际需求 B 强调产品符合我们的需求 C 推广质量）
+（解释A-B：人们很多时候还是很关心自己的预算，因为经济不好，生活成本高）
+
+Advertising firms pay more attention to the quality of their items, since they tend to produce advertisements that shows their products can satisfy shoppers needs. On the other hand, advertising firms sometimes draw attention to the quality of brands they promote, since it is the top concern for the target market. 
+
+These consumers are cost-conscious in a world they find it different to cover living expenses and adapt to an unstable economy. They tend to purchase products of high quality, which have a long lifespan and represent a good value for money, including household appliances, cars and electronic goods. Advertisers can provide test results of independent inspectors to show the performance, which  can boost the confidence of the public. (Consumers usually take their budget into consideration since the economic decline and high living expenses. There consumers are cost-conscious in a world where they find it difficult to cover living expenses and adapt to an unstable economy.)
+
+The working class do not purchase a large quantity of goods they cannot keep for long, due to the fact that are less conscious of social comparison.
+
+
+## 练习 Education
+
+As part of education, students should spend a period of time studying and living in a different country to learn a different language and culture. Do you agree or disagree?
+
+education: the learning process
+
+As part of education: an important part/component of education, a building block
+
+students: learners
+
+spend a period of time: spend serveral months, serveral weeks
+
+study: take/attend some couses, receive training
+
+live: stay in, integrate into, assimilate into the local culture
+
+learn a different language and cultur: pick up/accuquire/have a good command of/use a foreign language, learn about a different culture
+
+Some people argue that a key part of language acquisition is staying in a country where this language is spoken. I partly agree with this view, although for some students, there is an alternative approach.
+
+（全球化角度： A 留学 B 深入了解生活各个方面和相关单词 C 学习外语和文化）
+（解释A-B：使用当地的资源、设施等等，无可避免地接触当地的语言）
+（解释B-C：积累一些当地人使用的词汇，了解他们的一些习惯、态度、信仰、看法）
+
+Going to a foreign country is an effective way to become culturally and linguistically competent because students have to integrate into the local community. Their exposure to the target language is inevitable considering that they cannot live without resourses and facilities of the host community. They have to communite with locals in every aspect of daily lives, including buying groceries, renting a house, using public transport, attending courses and opening a bank account, thereby accumulating locally-used vocabulary. Onging communication also deepens their understanding of the habits, attitudes, beliefs and thoughts of people native to a specific country, which make its culture distinct from others.
+
+（全球化角度： A 留学 B 尽量融入当地社区，了解交流习惯 C 学习外语和文化）
+
+（科技角度： A 不出去留学 B 使用其他资料 C 一样学习外语和文化）
+（解释A-B：网络时代，有大量的材料，网课、字典、书籍等等）
+（解释B-C：通过搜索功能，获得相关信息进行学习）
+
+On the other hand, going abroad should not be made compusory for everybody since there are alternative ways to achieve the same purpose. Some people cannot afford the cost of studying overseas. Nor do they consider it necessary to learn a language in depth. Acquiring a language can be attained on the web, where learners can find a wealth of resources, such as online courses, live lessions, digital dictionaries and e-books. They can use the search engine to locate relevant information to gain knowledge, not only idioms and slang but also customs and cultural norms of a country.
+
+In conclusion, 
+
+
+
+
+
+
+
+
+The world is competitive as a result of polulation growth and rapid technological progress. 
+
