@@ -10,6 +10,7 @@
    报告类题目
    混合类题目
 2. AC确定法（主要是观点类题目和论述类题目比较复杂）
+   题目如果出现in order to, to do, 可能确定C
 3. 针对的对象
 4. 限定（定语、状语）
 5. 最高级、比较级、对比对象
@@ -43,15 +44,22 @@
 2. 不要加入主体段没有的信息
 
 
+## 练习 Foreign companies
+
+Some people think developing countries should invited large foreign companies to open offices and factories to grow their economies. Other people think developing countries should keep large companies out and develop local companies instead. Discuss both views and give your own opinion.
+
+
+A large foreign companies C grow their economies
+A develop local companies C grow their economies
+
 
 ## 练习 Advertisements
 
-Advertisements encourage consumers to buy in qunantity rather than promote quality. To what extent do you agree or disagree?
+Some people think personal happiness is directly related to economic success, while others believe this depends on other factors. Discuss both sides and give your own opinion. 
 
-金钱角度：
-A 广告强调购买是社会需求 B 人们不断购买才可以获得快乐 C 买买买
-A 广告利用我们的情感需求 B 人们不断购买才可以获得快乐 C 买买买
-A 广告关注我们的实际需求 B 强调产品符合我们的需求 C 推广质量
+A 经济发展  B 生活很好  C 快乐
+A 满足个人的追求  B 有成就感  C 快乐
+A 经济发展  B 人们选择更多  C 快乐
 
 Advertisements： commercials, advertising, advertising campaigns, advertisers, advertising firms, marketers.
 
@@ -83,43 +91,3 @@ Advertising firms pay more attention to the quality of their items, since they t
 These consumers are cost-conscious in a world they find it different to cover living expenses and adapt to an unstable economy. They tend to purchase products of high quality, which have a long lifespan and represent a good value for money, including household appliances, cars and electronic goods. Advertisers can provide test results of independent inspectors to show the performance, which  can boost the confidence of the public. (Consumers usually take their budget into consideration since the economic decline and high living expenses. There consumers are cost-conscious in a world where they find it difficult to cover living expenses and adapt to an unstable economy.)
 
 The working class do not purchase a large quantity of goods they cannot keep for long, due to the fact that are less conscious of social comparison.
-
-
-## 练习 Education
-
-As part of education, students should spend a period of time studying and living in a different country to learn a different language and culture. Do you agree or disagree?
-
-education: the learning process
-
-As part of education: an important part/component of education, a building block
-
-students: learners
-
-spend a period of time: spend serveral months, serveral weeks
-
-study: take/attend some couses, receive training
-
-live: stay in, integrate into, assimilate into the local culture
-
-learn a different language and cultur: pick up/accuquire/have a good command of/use a foreign language, learn about a different culture
-
-Some people argue that a key part of language acquisition is staying in a country where this language is spoken. I partly agree with this view, although for some students, there is an alternative approach.
-
-（全球化角度： A 留学 B 深入了解生活各个方面和相关单词 C 学习外语和文化）
-（解释A-B：使用当地的资源、设施等等，无可避免地接触当地的语言）
-（解释B-C：积累一些当地人使用的词汇，了解他们的一些习惯、态度、信仰、看法）
-
-Going to a foreign country is an effective way to become culturally and linguistically competent because students have to integrate into the local community. Their exposure to the target language is inevitable considering that they cannot live without resourses and facilities of the host community. They have to communite with locals in every aspect of daily lives, including buying groceries, renting a house, using public transport, attending courses and opening a bank account, thereby accumulating locally-used vocabulary. Onging communication also deepens their understanding of the habits, attitudes, beliefs and thoughts of people native to a specific country, which make its culture distinct from others.
-
-（全球化角度： A 留学 B 尽量融入当地社区，了解交流习惯 C 学习外语和文化）
-
-（科技角度： A 不出去留学 B 使用其他资料 C 一样学习外语和文化）
-（解释A-B：网络时代，有大量的材料，网课、字典、书籍等等）
-（解释B-C：通过搜索功能，获得相关信息进行学习）
-
-On the other hand, going abroad should not be made compusory for everybody since there are alternative ways to achieve the same purpose. Some people cannot afford the cost of studying overseas. Nor do they consider it necessary to learn a language in depth. Acquiring a language can be attained on the web, where learners can find a wealth of resources, such as online courses, live lessions, digital dictionaries and e-books. They can use the search engine to locate relevant information to gain knowledge, not only idioms and slang but also customs and cultural norms of a country.
-
-In conclusion, I would argue that going overseas allows for in-depth language learning, , including an insight into cultural differences, although using Internet resources can be an alternative for those who do not expect to become competent language users. 
-
-（The world is competitive as a result of polulation growth and rapid technological progress. 
-）
