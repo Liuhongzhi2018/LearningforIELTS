@@ -52,9 +52,37 @@ A 减少和模糊化这些画面 B 人们不会直接看到这类画面 C 不会
 A 电视想提高收视率 B 负面新闻更能引起社会关注 C 电视向大众展现灾难和暴力
 
 
-## 练习 roads
+## 练习 城市化roads
 
 Car drivers and cyclists share the same roads, and this can cause problems for both of them. Why is this cause? What measures can be taken to solve these problems? 
 
+A 人口增长 B 公共交通发展不够 C 导致道路拥挤
+A 发展公共交通 B 更好利用城市的空间 C 解决拥挤的问题
+A 城市扩张 B 人口分布更广 C 解决拥挤的问题
 
+Drivers: motorisrts, car owners, car users, those who travel by car.
+Cyclists: bikers, those who rode a bike, go by bike, travel by bike.
+Road: motorways, city roads.
+Cause problem: present challenges, are a headache, traffic problems, road accidents, traffic jams
 
+City roads today have seen the number of road users increasing, travaling by car or bike. This can present challenges to them and should be addressed immediately.
+
+（A 人口增长 B 公共交通发展不够 C 导致道路拥挤）
+（解释A-B: 建造公共交通，特别是地铁、修路等等，需要时间，克服一些问题，包括产权问题，钱的划拨等等）
+（解释B-C: 人们可能很少去使用公共交通，道路又比较少，就导致道路容量支持不起那么多人）
+ 
+Population explosion has made roads busier than before as public transport fails to keep pace with the demand. Cities has attracted numerous people with robust economic growth and the availablity of amenities, especially in those countries where technological progress and economic prosperity has driven a population boom. Traffic problems are common in there heavily-populated cities, considering that the expansion of public transport services takes time, due to land ownership, allocation of public money and other barriers. The majority of people choose to drive cars or ride a bike, instead of taking the bus or metro, thereby pushing the capacity limit of existing roads.
+
+（A 发展公共交通 B 更好利用城市的空间 C 解决拥挤的问题）
+（解释A-B: 发展公共交通可以减少私家车出行，因为费用低、更加准时）
+（解释B-C: 公共交通一次可以承载更多的人，道路就会腾出空间）
+
+This problem can be alleviated/solved by upgrading/improving public transport networks because urban space can be used more effectively. This can be prioritised by the government, diverting fund to the underground railway system and road construction, and also to making bus services more available. Public transport is usually more affordable and punctual, which can attract/appeal to/lure people previously driving cars. Buses or trains can carry more passengers than private cars, thereby freeing up road space. 
+
+（A 城市扩张 B 人口分布更广 C 解决拥挤的问题）
+（解释A-B: 发展公共交通可以减少私家车出行，因为费用低、更加准时）
+（解释B-C: 就近上班，减少主干道的使用量）
+
+Another solution is urban expansion, which allows for wider distribution of the population across a bigger area. For this purpose, it is appropriate to develop some new neighbourhoods, where more people can live and work around. These inhabitants can work for companies near their homes and walk to work, which can reduce the volume of traffic on main roads/arteries leading to the city cantre. 
+
+In conclusion, population growth is the main reason why different road users have to compete for limited space. This issue can be addressed by enhancing public transport and by creating new suburbs.
