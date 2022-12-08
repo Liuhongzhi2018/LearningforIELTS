@@ -107,3 +107,12 @@ While the proportion of house-dwelling people dropped, the interest in apartment
 
 ![chart2](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart2.PNG)
 
+The chart compares the rate of unemployment for young workers and the overall population of five European countries. 
+
+Poland has the highest youth unemployment, at 37%, followed by Italy and Hungary (23% and 21% respectively). 17% of young people aged 15 to 24 in Germany failed to find work, more than twice the figure for Denmark (8%).
+
+For the whole working population, Italy has the highest level of unemployment, at 18%, compared with 17% for Hungary.
+
+Germany and Poland have a similar figure (15% and 14%), while Denmark has the lowest unemployment (only 3%).
+
+Overall, Denmark has the lowest unemployment, either for the young workforce or for the entire working population, whereas the other four countries have similar figures (in spite of an extremely high level of youth unemployment in Poland). The proportion of unemployment young people is higher than overall unemployment in all these countries.
