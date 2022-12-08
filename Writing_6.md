@@ -21,7 +21,7 @@
 
 第三步：写主体段（写6句）
 1. 描述对象的先后顺序
-   主体段第一句，一般写最高值
+   主体段第一句，一般写最高值（以最近时间的最高级为主）
    第二句，写和第一句相似点最多的值（比较高，趋势相同）
    一般不写最低值，因为最低值不重要
 2. 熟悉句式
@@ -42,7 +42,7 @@
       7 there was a small difference/narrow gap in ... there was a remarkable difference/wide gap in
 3. 读数据
    数据多尽量归纳
-   数据少尽量
+   数据少尽量细节
    高达：up to, as high as
    大约：around, about, approximately, or so, some
    超过：over, more than
@@ -79,8 +79,31 @@
    4 不要揣测原因，不要给建议，不要做预想
 
 
-## 练习 country
+## 练习 waste
 
 ![chart1](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart1.PNG)
 
+The bar chart compares the percentage of waste that was recycled in a city during an 18-year period.
+
+Glass was the most common type of recycled waste in 2000, nearly 50 percent, around three times higher than the level in 1992. The recycling of glass also experienced the fastest growth during this period. The proportion of recycled paper was the second highest in 2000, and this kind of waste saw a similar trend, rising from 18% or so to 30%. By comparison, the development in recycling the other two categories of waste is relatively limited. The percentage of recycled plastic was the highest in 1992, but there was a drop to around 12% in 1997, before an increase to over 21%. The recycling of cans only saw a marginal growth during this period, with the figures remaining lowest in both 1992 and 2000.
+
+Overall, a larger proportion of waste was recycled in 2000 than in 1992, albeit to varying degrees. Glass and paper were more likely to be dealt with in environmentally responsible ways than cans and plastic.
+
+
+## 练习 dwellings
+
+![table1](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/table1.PNG)
+
+The chart compares people in three regions in Australia is terms of forms of accommodation over a five-year period.
+
+Tasmania had the highest proportion of residents living in houses, despite a drop from 88 to 86. Victoria and NSW saw a similar trend for the proportion of people living in houses, dropping to 76% and 66% respectively. 
+
+In contrast, there was a modest increase in the percentage of people who lived in apartments. The figures for Victoria and New South Wales rose to 12% and 15% respectively, while Tasmina had the lowest (9% in 2006).
+
+While the proportion of house-dwelling people dropped, the interest in apartments grew. Despite these changes, the proportion of people living in houses was remarkably higher than the proportion of people choosing the other three types of accommodation combined.
+
+
+## 练习 part-time employment
+
+![chart2](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart2.PNG)
 
