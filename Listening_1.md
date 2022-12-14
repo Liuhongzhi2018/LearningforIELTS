@@ -35,26 +35,27 @@ Part 4
 
 
 ## 1. 抄写答题纸要求
-40个答案字母大小写都可以
 
-日期标准写法
+1.40个答案字母大小写都可以
+2.日期标准写法
 Janunary 23, 2011
 23 Janunary, 2011
 Janunary 23
 23 Janunary
-
-8.30 pm/PM/P.M./p/m.四种都可以
-
-9 am  9.00 am
-
-注意单复数
-
-冠词a/an/the可以省略
+3.8.30 pm/PM/P.M./p.m.  四种都可以
+4.9 am  9.00 am
+5.注意单复数
+6.冠词a/an/the可以省略
 
 1st 2nd 3rd 11th 12th 13th 21st 22nd 23rd 31st
 
 a university
 a Europran country
+
+21st century
+16th century
+11th century
+世纪前面必须用序数词
 
 potatoes
 photos
@@ -153,3 +154,8 @@ C级：语料库11章
 technician  secretray
 caravan balloon
 
+
+## 练习
+
+C12 Test 5
+1.mountains
