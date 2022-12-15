@@ -70,6 +70,8 @@ heroes
 
 one word or a number 1+1
 
+Section 1 注意 陷阱 和 时态
+
 ## 3. 审题
 
 先看题号周围看完，再看词性 
@@ -108,6 +110,12 @@ resources
 
 3分-120小时
 0.5分-20小时
+
+
+## 练习
+
+C12 Test 5
+C12 Test 8
 
 
 ## 词汇积累
@@ -153,9 +161,3 @@ helicopter van ferry cab
 C级：语料库11章
 technician  secretray
 caravan balloon
-
-
-## 练习
-
-C12 Test 5
-1.mountains
