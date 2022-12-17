@@ -55,4 +55,34 @@ To relax
 To stay healthy
 To socialise
 
-## Free time / Leisure time
+## Your family
+
+Q: What's your family like?
+A: I come from a big (small) family. I was an only child. 
+
+Model answer: I am from a medium-sized family, I was the youngest child of three siblings. I think all three of us are quite different. We certainly have our ups and downs, and although we do fall out sometimes, we usually make up. Unfortunately I don't see a lot of them because I live abroad, but that said, we do stay in touch with Whats app. Talking about my parents, I take after my Dad, and actually I am also the spitting image of him. I would say, I have my mother's love of cooking, but unfortunately she passed away many years ago. Of course, I am married now and I have been for around 20 years and we have a daughter who is fifteen. To be honest, my wife and I are like chalk and cheese, but I think it's the differences that make our relationship interesting, and certainly keep us on our toes. Between you and me, my wife likes to be in control, and I think I am mister laid-back. I am much more relaxed and easy-going, but all in all we compliment each other. As for our daughter, well she is a mix of both of us in a way, but I would say undoubtedly, she is much smarter and better looking than the pair of us.
+
+I look like (take after) my father (mother). My parents brought me up with good values.
+
+There was a lot of sibling rivalry in my family. 
+My family has 5 family members -> There are 5 of us in my family.
+nuclear family 
+extended family
+My brother (sister) and I are like 2 peas in a pod. (similar)
+My brother and I are like chalk and cheese. (different) 
+
+We have our ups and downs
+We don't always see eye to eye. Sometimes, we fall out but then we make up.
+To fall out = to argue and no longer talk.
+
+We are a close (tightly knit) family. I love my family to bits. My family mean the world to me.
+
+It was love at first sight. 
+I fell for her instantly.
+We just clicked.
+
+We've grown to love each other over time.
+We've grown closer and closer over the years.
+
+Blood is thicker than water = family is more important than friends.
+
