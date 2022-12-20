@@ -2,6 +2,10 @@
 
 The secret to IELTS Speaking: Learn to speak natural spoken English.
 
+## Useful phrases for IELTS Speaking Part 1
+
+
+
 ## Free time / Leisure time
 
 1.Indoor Activities
@@ -85,4 +89,53 @@ We've grown to love each other over time.
 We've grown closer and closer over the years.
 
 Blood is thicker than water = family is more important than friends.
+
+
+## Your job
+
+Q: Why do you want this job?
+A: I think I am a good fit (good match) for this job. This job suits me down to the ground. I think this job ties in well with my future plans. I am excited to showcase my skills. I am eager to make a contribution. I am sure I could bring a lot to this job. I never shy away from hard work. 
+
+Q: Responsibilities at work.
+A: I'm responsible for (I'm in charge of) marketing (setting the marketing goals / making the marketing strategy). It's down to me to set our marketing goals. My forte is (I excel at / I'm good at) making creative graph. 
+
+Q: Being busy.
+A: I'm snowed under with work. I've got a lot on my plate. I'm up to my neck in deadlines. I work overtime (extra shifts) to make ens meets.
+
+To make ends meet = to have enough money to survive.
+
+Q: Changing job.
+A: I'm stuck in a rut. I am in a bad situation. I'm not realising my potential. I don't have the chance to use my talents. I've got untapped potential. I've got skills I am not using yet. I want to make a career change. It's time to move on. It's time to move on to a new challenge.
+
+Job interview tips:
+Do your homework, Vision / Mission / Values
+Use words the company use, we are an innovative start up looking for creative people who can make an impact on society.
+Focus on your ability more than qualification. 
+Focus on giving as well as taking.
+Choose as well as be chosen.
+
+
+## Climate change
+
+Long-term change to the weather and temperature of the planet. 
+
+Climate change is an unsurmountable challenge. 
+
+Deforestation has a serious impact. 
+
+There's an urgent need for us to reduce our carbon footprint.
+
+There is no straightforward solution.
+
+To reach a target
+To implement solution
+To become sustainable
+To reduce emissions
+
+To cut down on coal = To cut back on (using) coal = to reduce
+
+You can do you bit by eating less meat.
+You can play your part by turning off the lights when you leave a room.
+Governments are grappling with this issue of climate change.
+We can't even make a dent in this problem.
 
