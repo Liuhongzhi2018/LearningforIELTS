@@ -287,3 +287,4 @@ dentist
 
 per person = per head = a head
 every two weeks = once a fortnight
+
