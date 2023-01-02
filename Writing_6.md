@@ -29,7 +29,7 @@
       上升的表达：increase, rise, grow, climb, surge, jump
       下降的表达：drop, decline, dip, fall, decrease
       加速：accelerate, at a faster pace, more deeply
-      保持不变的表达：stood at, flat , levelled off, remained, stayed...
+      保持不变的表达：stood at, flat, levelled off, remained, stayed...
       超过：surpased, overtook, outnumber
       幅度的表达：dramatic, sharp, steep, remarkable, marked, significant, modest, slight, marginal,steady
    静态图:
