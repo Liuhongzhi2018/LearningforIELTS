@@ -1,4 +1,4 @@
-# Lesson 5 
+# Lesson 6 
 
 ## 雅思图表作文完成步骤
 
@@ -116,3 +116,21 @@ For the whole working population, Italy has the highest level of unemployment, a
 Germany and Poland have a similar figure (15% and 14%), while Denmark has the lowest unemployment (only 3%).
 
 Overall, Denmark has the lowest unemployment, either for the young workforce or for the entire working population, whereas the other four countries have similar figures (in spite of an extremely high level of youth unemployment in Poland). The proportion of unemployment young people is higher than overall unemployment in all these countries.
+
+
+## 练习 part-time employment
+
+![chart3](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart3.PNG)
+
+The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+
+The percentage for the United Kingdom levelled out at about 11 for the first decade, after which there appears a continuous, steady, and marginal fall for 30 years from approximately 11 to 9.
+
+Sweden underwent two contrasting trends over the period in question. Between 1967 and 1977, per capita emissions rose from 9 to 10.5, and then experienced a steep fall to 5.5.
+
+Italy and Portugal did not see a descending trend in the span of 40 years, and on the whole Italy gave off more CO2. Italy started off at 4, kept rising for 30 years to 7.6, and then levelled out till 2007. Portugal had an extremely similar trend with Italy, but with a consistent difference of about 2.5.
+
+In general, despite different trends for specific countries, there had been no increase in CO2 emissions for all countries over the four decades.
