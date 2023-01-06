@@ -1,0 +1,44 @@
+collecting data
+1500
+five
+3000-4000
+
+priorities
+timetable
+small tasks
+single paragraph
+
+E
+C
+B
+A
+G
+D
+
+E
+D
+B
+G
+C
+H
+I
+
+E
+G
+D
+C
+A
+
+B
+C
+B
+A
+C
+B
+A
+B
+C
+B
+
+
+

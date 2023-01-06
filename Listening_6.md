@@ -288,3 +288,9 @@ dentist
 per person = per head = a head
 every two weeks = once a fortnight
 
+## 9. 做题步骤
+
+1.看字数限制
+2.按题目顺序画圈，空格前后
+3.边圈边读会发音
+4.预判答案词性
