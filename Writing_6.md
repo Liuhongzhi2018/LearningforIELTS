@@ -78,6 +78,29 @@
    3 不要写的太长
    4 不要揣测原因，不要给建议，不要做预想
 
+## Question types
+
+1. Line graph
+2. Bar chart
+3. Pie chart
+4. Table
+5. Diagram - comparing
+6. Diagram - process
+
+1-4 show numbers
+
+## Structure: 4 paragraphs
+
+1. Introduction
+   1 sentence: Paraphrase the question(key words/order)
+2. Overview
+   2 sentences: The main, general things 
+3. Details (higher numbers/first half of the period)
+4. Details (lower numbers/second half of the period)
+(5.Overview)
+No conclusion!
+
+
 
 ## 练习 waste
 
