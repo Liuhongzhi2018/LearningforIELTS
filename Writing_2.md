@@ -150,3 +150,21 @@ All of this being said, I believe that learning a different language should be n
 然而，就我而言，学习外语不应该仅仅只是为了在国外旅行或工作。一门外语应该能帮助学习者开阔眼界。这么说是因为新的语言应该并且将会让我们更好地理解世界本身，甚至理解我们先人的思维方式和行为。更不用说，学另一门语言还能有助于我们理解人类，因为语言是国家的第一首诗。
 
 基于所有以上提到的，我认为学外语不应该仅仅为了满足我们的生理需要，比如钱，也应该考虑精神需求，因为以前从未有如此大的对知识的渴求被展示出来。
+
+
+## 练习 Unpaid community service
+
+Some people believe that ... . To what extent do you agree or disagree?
+
+Introduction-2 sentences(5 minutes)
+
+It is sometimes argue that high school students should be made to do some work in their local communities. I completely agree that this kind of scheme would be a good idea. (In my opinion, it would be wrong to force teenagers to do any kind of unsalaried work. / While I disagree with the idea of making such programmes compulsory, I do believe that voluntary community service could benefit young people.) 
+
+Two main paragraphs-5 sentences each(20 minutes)
+
+There are several reasons why I would argue against having compulsory community service for secondary school students. Firstly, the school curriculum is already full with important academic subjects, such as maths, science and languages. For example, I remember having an extremely busy timetable when I was at hign school, and it would not have been possible to add to it. Secondly, students' performance in other subjects would be affected if valuable study time were taken by charity work or neighbourhood improvemnet schemes. Finally, I believe that teenager students would be reluctant to take part in any programme of obligatory work, and this could lead to poor motivation and even bad behaviour. 
+
+On the other hand, the opportunity to do voluntary community service could be extremely positive for high school students. By making these progrmames optional, schools would ensure that only motivated students took part. These young people would gain valuable experience in an adult working environment, which could help to build their self confidence and enhance their skills. Having such experience and skills on their CVs could greatly improve school leavers' career prospects. For example, a period of voluntary work experience might impress a university admission officer or a future employer. 
+
+Conclusion-1 sentence(5 minutes)
+

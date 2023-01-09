@@ -89,3 +89,10 @@ The introduction of this legislation can be a negative development because the e
 A tougher law may also have a negative impact on workers' standard of living as they earn less money. This happens in cased where one's bonus is closely correlated with productivity and represents a large part of income. A their earnings drop, they may have difficultly in affording essentials, let alone saving money to buy a home. Young people and low-income earners, in particular dislike/loathe this law, because they are willing to contribute more labour in exchange for higher salaries. 
 
 In conclusion, the law is enacted to promote employees' well-being; however, we should be aware of its negative effects.
+
+
+## 练习 job satisfaction
+
+As most people ... . What factors contribute to job satisfaction? How realistic is the expectation of job satisfaction for all workers?
+
+Work plays a central role in our lives, and we would all like to feel fullfilled professionally. While a variety of factors may lead to job satisfaction, it would be unrealistic to expect everyone to be happy at work.

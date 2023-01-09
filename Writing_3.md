@@ -93,6 +93,10 @@ In my view, a strong economy is a predictor of elevated life satisfaction as peo
 In conclusion, I personally think economic success is a deciding factor of happiness although some other factors may also have an influence.
 
 
+## 练习 study in groups
 
+Some people think that ..., while others believe that... . Discuss both views and give your own opinion.
+
+People have different views about the effectiveness of group study as opposed to working alone. While there are some benefits to studying independently, I believe that group work is usually more productive.
 
 

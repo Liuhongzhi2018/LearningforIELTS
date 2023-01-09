@@ -13,7 +13,7 @@ Second, compare specific numbers
 
 ## 练习 electricity production
 
-![chart3](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart5.PNG)
+![chart5](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart5.PNG)
 
 Introduction - paraphrase the question
 

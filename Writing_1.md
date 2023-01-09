@@ -60,6 +60,10 @@
 学习具体议论文前，应该了解如何顺畅地扩展核心段
 从一个topic sentence 到一个完整核心段，形成闭环论证逻辑
 
+Panning(10 minutes)
+Introduction-2 sentences(5 minutes)
+Two main paragraphs-5 sentences each(20 minutes)
+Conclusion-1 sentence(5 minutes)
 
 ## 扩展方法
 

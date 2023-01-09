@@ -17,7 +17,7 @@ e.g., at the beginning with the fisrt year, the point where the blue line become
 
 ## 练习 electricity production
 
-![chart3](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart4.PNG)
+![chart4](https://github.com/Liuhongzhi2018/LearningforIELTS/blob/main/Figures/chart4.PNG)
 
 Introduction - paraphrase the question
 
