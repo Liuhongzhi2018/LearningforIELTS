@@ -32,6 +32,7 @@ C17 T1 Part2
 19-20.They can only be approached by sea=cannot be reached on foot, our staff will give more information/talk to you about what lies beyond=Someone will explain what is inside them.
 
 C17 T1 Part3
+
 21.problem both have, finding the right sort of farm/don’t seem to have websites=making initial contact
 22.Tim was pleased to be able to help, enjoyed helping/helping a sheep deliver a lamb/It wasn’t a straightforward birth=sheep difficulty giving birth.
 23.they were bred for their meat=were mainly reared for their meat.
@@ -42,3 +43,17 @@ C17 T1 Part3
 28.thought that was terrible=Tim was shocked at
 29.scientists don’t know much about=surprised how little is known
 30.write my dissertation on=may do some further study
+
+C17 T2 Part2
+
+11.the house. was replaced=made changes to
+12.a place for artists and writers, hosted meetings of creative and literary people, like painters and poets
+13.people in costume=dressed up as nineteenth-century servants.
+14.mini tractors=Our latest addition is child-sized tractors
+
+C17 T2 Part3
+
+21-22.a personal reaction=emotional impact the performance, a reference to particular scenes=how well the director handled important bits of the play
+28.problems that families experience=disagreements and tension between teenagers and their parents.
+29.moving=intensified the emotion for me.
+30.They can be interpreted in many ways=can also be understood on different levels.

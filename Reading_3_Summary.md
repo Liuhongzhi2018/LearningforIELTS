@@ -45,3 +45,33 @@ defeated by the Parliamentarians = victory for the Parliamentarians
 a huge sum=A large reward
 31.he eventually managed to reach the relative safety of continental Europe.
 refuge=relative safety
+
+C17 Test2 Part1
+原文选词填空
+1.rock. tossed a rock into=threw a, hear a shattering sound=heard a noise
+2.cave. relocate the poor workers=move people to
+3.clay. entered=went into, large clay=made of clay
+4.Essenes. called the=known as the
+5.Hebrew. are in Hebrew=written mainly in
+
+C17 Test2 Part2
+24.flavour
+For instance=such as, lost much of=loss of
+25.size
+tripled the size ofe=three times its original
+26.salt
+more salt tolerant=not badly affected by salt
+
+C17 Test2 Part3
+37.inspiration 灵感
+The traditional view of scientific discovery is that breakthroughs happen when a single great mind has sudden inspiration.
+inspiration=deas spontaneously pop into someone’s head
+38.mistakes
+In some cases, this process involves mistakes, such as Nicholson’s theory about proto-elements.
+mistakes=Nicholson was wrong about
+39.luck
+There is also often an element of luck.
+luck=a happy accident
+40.goals
+there may be no clear goals involved, but merely a process of variation and selection.
+goals=end objective

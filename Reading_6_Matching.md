@@ -19,7 +19,29 @@ examples定位, public spaces and services=wide range of facilities
 17.reference to the disadvantages of the stadiums built during a certain era
 may not be=disadvantages, at the beginning of the 20th century=a certain era
 
+C17 Test2 Part2
 
+14.a reference to a type of tomato that can resist a dangerous infection
+C: resistant to a common disease
+15.an explanation of how problems can arise from focusing only on a certain type of tomato plant.
+B: have lost much of their flavour
+16.a number of examples of plants that are not cultivated at present but could be useful as food sources
+E: The three teams already have their eye on other plants that could be ‘catapulted into the mainstream’, including foxtail, oat-grass and cowpea. 
+17.a comparison between the early domestication of the tomato and more recent research
+It took at least 3,000 years, have done it all over again in less than three years.
+18.a personal reaction to the flavour of a tomato that has been genetically edited
+‘They are quite tasty,’ says Kudla. ‘A little bit strong. And very aromatic.’ 
+
+19.Domestication of certain plants could allow them to adapt to future environmental challenges.
+By choosing wild plants that are drought or heat tolerant, says Gao
+20.The idea of growing and eating unusual plants may not be accepted on a large scale.
+This approach could boost the use of many obscure plants, says Jonathan Jones, it will be hard for new foods to grow
+21.It is not advisable for the future direction of certain research to be made public.
+But Kudla didn’t want to reveal which species were in his team’s sights
+22.Present efforts to domesticate one wild fruit are limited by the costs involved.
+But she adds that taking the work further would be expensive
+23.Humans only make use of a small proportion of the plant food available on Earth.
+ ‘There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.’ 
 
 
 

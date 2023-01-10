@@ -40,8 +40,18 @@ SLOP
 
 ## 剑雅真题
 
-C17 T1 Part1
+C17 T2 Part2
 
+15.eating and drinking=It’s now the place to go for lunch, or afternoon tea. the dairy定位词. 
+16.seeing old farming equipment=agricultural tools were used in the past to plough the earth. the large barn定位词. 
+17.helping to look after animals=groom the donkeys and horses, to keep their coats clean. a small barn定位词. 
+18.shopping=the place to go to buy gifts. the stables定位词. 
+19.starting a trip=climb into tour of the park and farm. the shed定位词. 
+20.seeing rare breeds of animals=cattle and sheep that are hardly ever found. parkland定位词. 
 
-
-
+C17 T2 Par3
+23.They agree this was a major strength=the most memorable thing/amazing.
+24.They agree this created the right atmosphere=It helped to change the mood of the quieter scenes/That’s a good point.
+25.They both expected this to be more traditional=it would be more conventional.
+26.They were both disappointed by this=wasted/didn’t have much impact/shame.
+27.They disagree about why this was an issue=I actually didn’t have a problem with that.

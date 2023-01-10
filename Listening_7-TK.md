@@ -42,3 +42,30 @@ C17 Test1 Part4
 38.breathing, reduce=slower
 39.paper, ‘finger labyrinths’ made from=a paper ‘finger labyrinth’ 
 40.anxiety, less=relief from
+
+
+C17 Test2 Part1
+
+1.collecting,  get involved in=Help with, The times are pretty flexible so we can arrange=times to be arranged
+2.records, Another thing is the records that we keep=needed to keep
+3.West, a room in the village复现
+4.transport, help with=by providing
+5.art, hobby定位词
+6.hospital, sneeds a lift to=Taking Mrs Carroll to 
+7.garden, do some weeding=Work
+8.quiz, holding a quiz
+9.tickets, sell tickets in advance, check them at the door
+10.poster, a poster, graphic designer
+
+C17 Test2 Part4
+
+31.321000, which is spoken by=speakers, around=approximately
+32.vocabulary, is continually increasing=is still growing
+33.podcast, Then there’s an Icelandic word=and
+34.smartphones,  digital world=digital technology
+35.bilingual, promotes their bilingual skills=becoming bilingual 
+36.playground, playground conversations=discussions in the playground
+37.picture, picture using English, rather than Icelandic=a picture in English than Icelandic
+38.grammar, significantly more complex=how complicated its
+39.identity, lose their sense of their own identity=lose their
+40.fluent, neither of which they are fully fluent in=not being fluent in either Icelandic or English

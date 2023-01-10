@@ -55,3 +55,46 @@ enthusiastically=celebrate, lowest point in their life=defeat
 even-handed sympathy=an unbiased approach
 40.When the reviewer says the book ‘doesn't quite hit the mark’, she is making the point that
 form=a lasting influence on
+
+C17 Test2 Part1
+
+6.were disappointed by
+NG-题干中信息不存在：they were sold for a small sum to a local antiquities dealer.
+7.There is agreement among
+False-反义词设置：is still the subject of scholarly debate even today.
+8.are incomplete
+True-单句同义改写：fragments from every book
+9.in an unusual way.
+True-单句同义改写：The only exception
+10.as a gift
+False-反义词设置：paying less than $100 for them
+11.a number of educational establishments
+False-关系型驳斥：unsuccessfully offered them to a number of universities
+12.annual occasions
+True-单句同义改写：364-day calendar, celebrations...and two yearly religious events
+13.are currently researching
+NG-题干中信息不存在：Only one more known scroll remains untranslated. 
+
+C17 Test2 Part3
+
+27.outline a common assumption.大致勾勒出一种常见看法。
+Our view of such unique contributions
+28.criticising an opinion.批评某种观点
+There may be some limited truth to this view.
+29.They represent an exception to a general rule.
+Setting aside such greats
+30.laid the foundations for someone else’s breakthrough.
+Niels Bohr, jumped off from this interesting idea
+31.the simple reason why it was invented
+His modification just happened to coincide
+
+32.Acknowledging people such as Plato or da Vinci as geniuses will help us understand the process by which great minds create new ideas.
+False-关系型驳斥：These notions merely label rather than explain the evolution of human innovations.
+33.The Law of Effect was discovered at a time when psychologists were seeking a scientific reason why creativity occurs.
+NG-题干中信息不存在：The Law of Effect was advanced by psychologist
+34.The Law of Effect states that no planning is involved in the behaviour of organisms.
+True-单句同义改写：without any end objective in sight. 
+35.The Law of Effect sets out clear explanations about the sources of new ideas and behaviours.
+False-反义词设置：raw material on which the Law of Effect operates is not as clearly known as
+36.Many scientists are now turning away from the notion of intelligent design and genius.
+NG-题干中信息不存在：The time seems right for abandoning the naive notions of intelligent design and genius
