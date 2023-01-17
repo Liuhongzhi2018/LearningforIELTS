@@ -69,3 +69,119 @@ C17 Test2 Part4
 38.grammar, significantly more complex=how complicated its
 39.identity, lose their sense of their own identity=lose their
 40.fluent, neither of which they are fully fluent in=not being fluent in either Icelandic or English
+
+
+C11 Test2 Section1
+
+P32 P107
+1.hostel. from Monday to Friday=during the week.
+2.Buckleigh. address 定位词.
+3.PE97QT. postcode 定位词.
+4.waiter. now working as=job as.
+5.politics. major subject 定位词.
+6.cycling. hobbies定位词. spend quite a lot of time=doses a lot of.
+7.cinema. be also keen on=.
+8.disabled. disabled young=young people who are disabled.
+9.4.30. suggest time 信号词.
+10.07788136711. mobile number 定位词.
+
+
+C10 Test3 Section1
+
+P50 P133
+1.4. put four down.
+2.46 Wombat. address 定位词.
+3.Thursday. suppose 认为.
+4.8.30. drop her off at-start time.
+5.red. put her in the red group.
+6.lunch. only need=require.
+7.glasses. need to wear=needs.
+8.Ball. Jenny B-A-double L.
+9.aunt. the child's aunt=relationship.
+10.month. every=each, not used to the term.
+
+
+C9 Test3 Section3
+
+P52 P136
+21.fishing industry.
+22.statistics. be coping well with=strengths.
+23.note-taking. be very weak at=weaknesses.
+24.confidence. increase=build.
+25.ideas. contain the same=share the same.
+26.student support. use service=try a service.
+27.places. limited=only a few.
+28.general. too 复现.
+29.3 times. all notes=everything.
+30.25. go for the=next tutorial data.
+
+
+C8 Test4 Part1
+
+1.waiters, Vacancies=are looking for 改写
+2.day off, choose=get 改写
+3.break, including a=that includes a 改写
+4.free meal, get a meal in the hotel, no charge for it, meal in 连读
+5.dark, dark trousers， and dark trousers 连读
+6.jacket, supplied=lends you that
+7.28 June, end of June. the 28th
+8.Urwin, U-R-W-l-N
+9.midday, at midday
+10.reference, require a=ask you for a reference
+
+Bay n.（海或湖的）湾
+I'm ringing about 来电咨询
+gazette n.（英）公报；报纸
+post n.工作，职位；岗位
+shifts n.移位；换班制（shift 的复数）
+alternate v.（使）交替，（使）轮流
+day off 休息日
+negotiate v.（尤指在商业或政治上）谈判，磋商
+rates n.价格；比率；等级
+tips n.秘诀，技巧；小贴士，小窍门
+generous adj.慷慨的，大方的；大量的，丰富的；宽宏大量的
+uniform n.制服，校服
+plain adj.无装饰的，朴素的；单色的
+trousers n.裤子
+waistcoat n.背心
+midday n.中午，正午
+direct line 直线电话
+vouch vt.担保
+
+
+C6 Test4 Section1
+
+P79 P146
+1.75. fees be in that case.
+2.cheque. pay that by=payment by.
+3.15. 
+4.25. 
+5.10 minutes. walk away.
+6.conference pack. send you=to be sent.
+7.South. on 介词定位, Park Road复现.
+8.library. next to 介词定位.
+9.5. taxi 定位词.
+10.21A. bus 定位词.
+
+
+
+C5 Test1 Section1
+
+1.minibus. it's by minibus
+2.15. up to fifteen people on this tour. up to=Maximum
+3.18 April. next one going=Next tour date. 
+4.Pallisades. The hotel itself ... It's called The Pallisades.
+5.B. guided bushwalk. a bushwalk through the national park.
+6.D. table tennis. But there are (Q5-6) table tennis tables downstairs and they're part of the accommodation package.
+7.280. it's actually $290. 
+8.14. all bookings to be made at least fourteen days
+9.20%. need to pay a 20% deposit at the time of booking.
+10.39745T. t's three nine seven, four five, T. That's T for tango.
+
+
+
+
+
+
+
+
