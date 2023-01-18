@@ -71,6 +71,21 @@ C17 Test2 Part4
 40.fluent, neither of which they are fully fluent in=not being fluent in either Icelandic or English
 
 
+C12 Test8 Section1
+
+P74 P107
+1.temporary. permanent后有no逻辑词，looking for a=wants a.
+2.doctor. be going to be=start work as.
+3.Africa. bike tours=cycle trips.
+4.youth. a volunteer worker=voluntary work.
+5.May. available from=available for five months from.
+6.cheese. be allergic to=can't eat.
+7.Arbuthnot. A-R-B-U-T-H-N-O-T.
+8.DG74PH. postcode定位词，DG7 4PH.
+9.Tuesday. interview定位词.
+10.talk. prepare a ten-minute talk about that， prepare a ten-minute=plan a short.
+
+
 C11 Test2 Section1
 
 P32 P107
@@ -86,6 +101,22 @@ P32 P107
 10.07788136711. mobile number 定位词.
 
 
+C9 Test2 Section1
+
+P25 P128
+1.Bhatt. take your name定位.
+2.31 March. 31st March 1892, 或写31.3.1972.
+3.nursing. doing a course in=course of study.
+4.2. only like to stay in hall for two.
+5.meat. don't take red meat=special dietary requirement.
+6.bedsit. sounds the best option=preferred room type.
+7.theatre. love the theatre.
+8.mature. there are other mature students.
+9.town. be out of=live outside.
+10.shared. somewhere with a shared area= have area, a good way to socialise=for socializing.
+
+
+
 C10 Test3 Section1
 
 P50 P133
@@ -99,6 +130,21 @@ P50 P133
 8.Ball. Jenny B-A-double L.
 9.aunt. the child's aunt=relationship.
 10.month. every=each, not used to the term.
+
+
+C10 Test4 Section1
+
+P80 P133
+1.Pargetter. .
+2.East. No是信号词，答案在后面.
+3.library. at the back of=behind.
+4.morning. the best time=during.
+5.postbox. on the other side, by=next to紧挨着.
+6.prices. with=and.
+7.
+8.
+9.
+10.
 
 
 C9 Test3 Section3
