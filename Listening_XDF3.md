@@ -1,7 +1,7 @@
 # XDF Lesson 3 表格、简答和句子填空
 
 
-## 个人信息表格
+## 个人信息表格题
 
 C9T1S1
 
@@ -31,3 +31,31 @@ Manuja
 听中：保持实时定位，竖起耳朵抓信号词，错过的题目果断放弃
 
 C11T2S1
+
+## 纵横表格题
+
+解题思路：
+1.理脉络，重节奏
+2.纵横轴，四周看
+3.空前后，找定位
+
+C5T1S2
+
+(11) move around
+(12) brakes 刹车
+(13) fingers 注意预判和单复数
+(14) satisfactory 按音写词，用会的词辅助猜测
+(15) put together, simple to=easy to
+(16) wide -> too wide, minus side=problems
+(17) dangerous, label=verdict
+(18) wheels, negatives=problems
+(19) -> safe / best buy
+
+C5T3S3
+23.clear
+24.suggestion -> outline
+25.reading -> the second half
+26.standard of teaching
+27.-> group discussion
+
+C6T2S3
