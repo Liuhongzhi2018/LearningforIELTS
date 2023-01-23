@@ -59,3 +59,53 @@ C5T3S3
 27.-> group discussion
 
 C6T2S3
+
+
+## 简答填空题
+
+注意疑问词
+根据问题对答案进行合理预判
+
+C9T4S3
+
+26.meet new people -> groups
+27.two weeks -> every 2nd day
+28.-> 2 weeks
+29.-> confident
+30.-> education system
+
+C5T2S2
+16.￡75000 (￡:alt+num0163)
+17.computers
+
+C7T4S1
+
+
+## 单句填空题
+
+注意审题，做好预判
+注意题干中的限定词
+注意句型或语序变换
+
+C5T4S2
+
+11.clubhouse
+
+C4T1S2
+
+12.local -> local craftsmen
+
+C5T1S2
+
+20.sharp
+
+C6T2S2
+
+11.king -> King Street
+12.central
+13.half hour
+14.-> refreshments 茶点，小吃
+
+during the week = weekdays = working days = Mon to Fri
+
+C10T1S2

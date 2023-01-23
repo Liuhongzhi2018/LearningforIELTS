@@ -71,6 +71,14 @@ C17 Test2 Part4
 40.fluent, neither of which they are fully fluent in=not being fluent in either Icelandic or English
 
 
+C12 Test7 Section2
+
+P56 P108
+18.stress. As well as=also逻辑词，losing=reduces.
+19.weight. do something about=control.
+20.families. tailored to the needs of=designed for.
+
+
 C12 Test8 Section1
 
 P74 P107
@@ -84,6 +92,14 @@ P74 P107
 8.DG74PH. postcode定位词，DG7 4PH.
 9.Tuesday. interview定位词.
 10.talk. prepare a ten-minute talk about that， prepare a ten-minute=plan a short.
+
+C12 Test8 Section3
+
+P78 P112
+21.classification. came up with a=containing a.
+22.worst. examples of Shakespeare adaptations=adaptations.
+23.slides. would better do=prepare.
+24.issues. 话题，问题. of the time when the film is made=at the time of making the film.
 
 
 C11 Test2 Section1
@@ -101,6 +117,18 @@ P32 P107
 10.07788136711. mobile number 定位词.
 
 
+C11 Test3 Section3
+
+P60 P114
+21.cave. trees all around=surrounded by trees.
+22.tiger. putting in a tiger.
+23.dancing. men and women dancing=People who are dancing.
+24.crying. like him to be crying.
+25.grass. be skating=Ice-skaters.
+26.scarf. each of them=each person.
+
+
+
 C9 Test2 Section1
 
 P25 P128
@@ -114,6 +142,18 @@ P25 P128
 8.mature. there are other mature students.
 9.town. be out of=live outside.
 10.shared. somewhere with a shared area= have area, a good way to socialise=for socializing.
+
+
+C9 Test2 Section2
+
+P27 P129
+11.trees. great range of=many different.
+12.Friday/Sunday. open to the public from Friday to Sunday.
+13.farm. a modern replica=reconstruction.
+
+
+C10 Test1 Section2
+
 
 
 
@@ -132,6 +172,15 @@ P50 P133
 10.month. every=each, not used to the term.
 
 
+C10 Test4 Section2
+
+P76 P140
+16.trains. mining=miners'.
+17.games. ours=the mine.
+3.guided tour. it’s recommended that=is recommended.
+4.ladders. don’t recommend=shouldn't.
+
+
 C10 Test4 Section1
 
 P80 P133
@@ -147,6 +196,13 @@ P80 P133
 10.
 
 
+C9 Test3 Section2
+
+P71 P146
+12.120. 120 square metres.
+13.5 to 12. enable 5-12 year olds.
+
+
 C9 Test3 Section3
 
 P52 P136
@@ -160,6 +216,22 @@ P52 P136
 28.general. too 复现.
 29.3 times. all notes=everything.
 30.25. go for the=next tutorial data.
+
+
+C9 Test4 Section3
+
+P75 P141
+1.approach, lecturers 信号词, much easier to approach.
+2.mature. a more mature student now.
+3.interest. talk about=discuss.
+
+
+C9 Test4 Section3
+
+P71 P146
+1.babies, very good with them=especially good with.
+2.Eshcol.
+3.evening, do appointments in the evening=offers 
 
 
 C8 Test4 Part1
@@ -195,6 +267,42 @@ direct line 直线电话
 vouch vt.担保
 
 
+C8 Test1 Section3
+
+P15 P132
+28.12000. tribal park 信号词.
+29.horses. best way to=suggests that.
+30.caves. what else=also explore.
+
+
+C8 Test3 Section2
+
+P59 P132
+1.garden hall. in the Garden Hall.
+2.Three Lives. that's called.
+3.4.50.
+4.Faces of China. Chinese Art called. it's...called...为信号词.
+
+
+
+C7 Test3 Section2
+
+P64 P148
+1.forest. whole of the day=all day.
+2.temple. twelfth-century carvings=old carvings.
+3.waterfall. swim in the Parteh Falls.
+4.village. spent in a village.
+
+
+C7 Test4 Section1
+
+P87 P152
+7.seafood. really like=particularly like.
+8.tennis. Now I play tennis.
+9.train. catching the train.
+10.this afternoon. give you details this afternoon.
+
+
 C6 Test2 Section3
 
 
@@ -214,7 +322,11 @@ P79 P146
 9.5. taxi 定位词.
 10.21A. bus 定位词.
 
+C6 Test4 Section3
 
+P82 P149
+26.overdue books. you can't renew 信号，this way=by telephone or email.
+27.7 working days. have to return 信号.
 
 C5 Test1 Section1
 
@@ -229,7 +341,9 @@ C5 Test1 Section1
 9.20%. need to pay a 20% deposit at the time of booking.
 10.39745T. t's three nine seven, four five, T. That's T for tango.
 
-
+C3 Test1 Section2
+11.Anna. Our daughter, Anna, isn’t very well.
+12.practices. they work in things called practices.
 
 
 
