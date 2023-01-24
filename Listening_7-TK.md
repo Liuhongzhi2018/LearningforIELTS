@@ -102,6 +102,9 @@ P78 P112
 24.issues. 话题，问题. of the time when the film is made=at the time of making the film.
 
 
+C11 Test1 Section4
+
+
 C11 Test2 Section1
 
 P32 P107
@@ -115,6 +118,15 @@ P32 P107
 8.disabled. disabled young=young people who are disabled.
 9.4.30. suggest time 信号词.
 10.07788136711. mobile number 定位词.
+
+
+C11 Test3 Section1
+
+P57 P113
+7.birds. a good place for 信号词, spotting unusual=seeing rare.
+8.flowers. pretty unusual=certain unusual.
+9.mushrooms. pick=collect, study=learn about.
+10.river. Part of 信号词.
 
 
 C11 Test3 Section3
@@ -282,6 +294,9 @@ P59 P132
 2.Three Lives. that's called.
 3.4.50.
 4.Faces of China. Chinese Art called. it's...called...为信号词.
+
+
+C7 Test1 Section4
 
 
 

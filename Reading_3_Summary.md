@@ -75,3 +75,22 @@ luck=a happy accident
 40.goals
 there may be no clear goals involved, but merely a process of variation and selection.
 goals=end objective
+
+
+C12 Test5 Part2
+35.beginner. both music and mathematics=with mathematics as well
+36.arithmetic. a limited knowledge of=a little.
+37.intuitive. right brain (intuitive) and the left brain (analytical, numerical).
+38.scientists. books written by=have written books.
+39.experiments. carry out=perform.
+40.theorems. in particular 定位词.
+
+
+C11 Test3 Part3
+35.beginner. both music and mathematics=with mathematics as well
+36.arithmetic. a limited knowledge of=a little.
+37.intuitive. right brain (intuitive) and the left brain (analytical, numerical).
+38.scientists. books written by=have written books.
+39.experiments. carry out=perform.
+40.theorems. in particular 定位词.
+
