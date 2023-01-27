@@ -57,3 +57,127 @@ C17 T2 Part3
 28.problems that families experience=disagreements and tension between teenagers and their parents.
 29.moving=intensified the emotion for me.
 30.They can be interpreted in many ways=can also be understood on different levels.
+
+
+
+C13 Test2 Section2
+
+
+
+
+C13 Test2 Section3
+
+21.A. you can also leave these=get away from the regular trails.
+22.B. have your own team=Anyone has the chance to drive a team of dogs.
+23.A. there's a medal for everyone who takes part=All participants receive a medal.
+24.C. get to the summit=climb to the top of a mountain.
+25.A. water for drinking=a supply of drinking water.
+26.B. stay in the hut=wait.
+
+
+C13 Test3 Section3
+
+
+
+C13 Test4 Section2
+
+11.
+12.
+13.
+14.
+15.
+16.
+
+
+C12 Test5 Section2
+
+11.A. so many different things to do=the variety of work.
+12.A. remove your rings and bracelets=jewellery.
+13.C. don't have any tables free=the restaurant is almost fully booked.
+14.C. the meat slicer is out of bounds=only 18 or older are allowed to use the meat slicer.
+
+C12 Test7 Section3
+
+
+
+C12 Test8 Section2
+
+11.A. now graduates embarking on careers=young professional people.
+12.C. The narrow old side streets are great places for finding original pictures, jewellery and ceramics.
+13.B. design an outfit based on ideas from the music and technology everyday life=contemporary culture.
+14.B. present a receipt from one of the local stores.
+
+
+C11 Test1 Section3
+
+21.C.（STEM）理工科的统称（science, technology, engineering, and mathematics）.
+22.B. wanted to find out was basically what they could do about the relatively low level of the women's results.
+23.B. they thought that the men expected them to get poor results in their tests.
+24.C. write an essay focusing on things that were significant to them.
+25.A. And putting these thoughts into words can relax them.
+26.B. hadn't expected was that this one activity raised the women's physics grades.
+27.C. And had they been told why they were doing the writing.
+28.A. half do the same writing task as in the original research and half do a factual writing task.
+29.B. the men and the women got the same results.
+30.we should just make an appointment to see one of the science professors.
+
+
+C11 Test2 Section2
+
+
+
+C11 Test2 Section3
+
+21.A. habitats=where organisms live.
+22.A. not the piece of string=forget to take 
+string.
+23.C. don't think we need all these details=the amount of information.
+24.B. how straightforward that was=It was simple to carry out.
+25.B. I realised I should have gone up higher=in the wrong place.
+26.B. make my amendments using those=check it using photographs.
+
+
+C11 Test3 Section1
+
+1.B. the 'Family Welcome' event runs from 10.30.
+2.C. It demonstrates how ceramics are made.
+3.B. the majority at lunchtime.
+4.A. at 4 it's in the City Museum.
+5.C. The race starts at Offord Marina.
+6.A. One of them came first in the West of England regional championship in May this year.
+
+
+
+C10 Test2 Section3
+
+
+
+C9 Test2 Section3
+
+21.C. a pretty major component of their course=an important part of their studies.
+22.B. relocating the Self-Access Centre=move.
+23.B. not being able to go to a teacher for advice=
+difficulty in getting help.
+24.C. problem of timetabling a teacher to be in=the difficulty in supervising.
+
+C9 Test4 Section2
+
+
+
+
+C9 Test4 Section4
+
+31.C. wondered why they were turning up in these gardens in great numbers.
+32.A. in the town land survey office.
+33.B. keep a record=tick off.
+34.B. the most typical in the city=be representative.
+35.A. decline of wild animals in the countryside=wildlife problems in rural areas.
+36.C. gave a good indication of the processes=general trends.
+
+C7 Test2 Section3
+
+
+
+
+C5 Test3 Section2
+

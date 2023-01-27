@@ -78,6 +78,20 @@ P56 P108
 19.weight. do something about=control.
 20.families. tailored to the needs of=designed for.
 
+C12 Test7 Section4
+
+P58 P110
+31.insects. eat=feed on.
+32.behavior. do with the behaviour.
+33.father. songs produced by its father.
+34.complex. aren't as complex as=less complex.
+35.reproduction. affect chances of reproduction.
+36.control. a much higher level of control.
+37.ducks. For example=such as.
+38.language. in the acquisition of=in learning.
+39.food. food eaten by its mother=a mother's body from food.
+40.costs. increase costs.
+
 
 C12 Test8 Section1
 
@@ -103,6 +117,18 @@ P78 P112
 
 
 C11 Test1 Section4
+
+P16 P106
+31.conservation. for focusing efforts at=targets for.
+32.food. only true for four of the hotspots=not always rich.
+33.surface. relatively high temperatures=higher temperatures.
+34.oxygen. enough=sufficient.
+35.mammals. marine复现.
+36.ice. below=under.
+37.decline. rate at which=rate of. 
+38.map. map showing its distribution=a distribution map.
+39.migration. corridors for migration=migration corridors.
+40.consumption. wanted for=purpose of.
 
 
 C11 Test2 Section1
@@ -162,6 +188,14 @@ P27 P129
 11.trees. great range of=many different.
 12.Friday/Sunday. open to the public from Friday to Sunday.
 13.farm. a modern replica=reconstruction.
+
+C9 Test4 Section4
+
+P78 P143
+37.frogs. The first species=Animals.
+38.predators. survival=safer from.
+39.count. no difficulties=easy to.
+40.seeds. extensive range of=a variety of.
 
 
 C10 Test1 Section2

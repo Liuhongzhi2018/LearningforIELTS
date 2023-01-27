@@ -78,12 +78,19 @@ goals=end objective
 
 
 C12 Test5 Part2
-35.beginner. both music and mathematics=with mathematics as well
-36.arithmetic. a limited knowledge of=a little.
-37.intuitive. right brain (intuitive) and the left brain (analytical, numerical).
-38.scientists. books written by=have written books.
-39.experiments. carry out=perform.
-40.theorems. in particular 定位词.
+14.antiques. be able to sell at a profit=in order to make money. 
+15.triumph. a sense of=a feeling of.
+16.information. exchanging=share.
+17.contact. brings them into=offer.
+18.hunt. spend their whole lives=life-long.
+19.aimless. feeling=feels.
+20.educational. educational value.
+21.Trainspotting. among boys and men=male.
+
+C12 Test8 Part3
+38.information. lacked=lack of.
+39.financial.metrics=considerations.
+40.shareholders. pressure=have to.
 
 
 C11 Test3 Part3
