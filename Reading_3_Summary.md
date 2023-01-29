@@ -93,6 +93,17 @@ C12 Test8 Part3
 40.shareholders. pressure=have to.
 
 
+C11 Test1 Part3
+30.to create a sunshade=form a transparent, sunlight-refracting sunshade.
+31.place iron in the sea=depositing iron in the ocean.
+32.to encourage algae to form=stimulate the growth of algae.
+33.to create clouds that would reduce light reaching Earth=would form clouds.
+34.fix strong cables to Greenland ice sheets=reinforced high-tension cables.
+35.to allow the birches to reflect radiation=be reflected by the snow.
+36.change the direction of rivers=Re-routing Russian rivers.
+
+
+
 C11 Test3 Part3
 35.beginner. both music and mathematics=with mathematics as well
 36.arithmetic. a limited knowledge of=a little.

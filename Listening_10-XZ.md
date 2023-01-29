@@ -108,6 +108,17 @@ C12 Test8 Section2
 14.B. present a receipt from one of the local stores.
 
 
+C12 Test8 Section3
+
+25.F. moving it to 16th century Japan instead of 16th century Britain=in a different country.
+26.A. what life was like at the time=shows the historical period.
+27.E. film which moves the action into the present day=presents the play in a different period.
+28.C. more like a typical action hero movie=more like a typical action hero movie.
+29.G. include dance and singing and animation=incorporates a variety of art forms.
+30.B. with a few scenes=contains only parts.
+
+
+
 C11 Test1 Section3
 
 21.C.（STEM）理工科的统称（science, technology, engineering, and mathematics）.
@@ -145,6 +156,16 @@ C11 Test3 Section1
 4.A. at 4 it's in the City Museum.
 5.C. The race starts at Offord Marina.
 6.A. One of them came first in the West of England regional championship in May this year.
+
+
+C11 Test3 Section2
+
+16.G. increase the number of Parking spaces=It will be expanded.
+17.A. reopen on a different site=move to a new location.
+18.C. be made safe and redecorated=be refurbished.
+19.B. open later into the evening=opening hours extended.
+20.F. become the responsibility of a national body=new management.
+
 
 
 
