@@ -166,6 +166,32 @@ P60 P114
 26.scarf. each of them=each person.
 
 
+C11 Test4 Section1
+
+P79 P117  音乐场景
+1.secondary. the secondary school.
+2.flute. Yes the flute.
+3.cinema. at the back of=Start behind the.
+4.concert. tickets for the concert on the last night=tickets for the concert held.
+5.market. They're on sale at a stall in=can be bought in.
+6.Bythwaite.
+7.actor. famous=well-known.
+
+C11 Test4 Section4
+
+P79 P117  音乐场景
+31.dry. erosion can occur if soil is dry.
+32.hard. ground had become extremely hard.
+33.sugars. transform it into sugars.
+34.roots. some transfer from the roots.
+35.moist. boost the fertility of soil and keep it moist.
+36.variety. increasing the variety of plants.
+37.cattle. study on a large cattle farm in the state.
+38.gardens. waste produced in gardens.
+39.grasses. working to build up soil carbon by cultivating grasses.
+40.payment. farmers should receive payment.
+
+
 
 C9 Test2 Section1
 

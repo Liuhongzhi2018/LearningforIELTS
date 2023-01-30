@@ -49,9 +49,10 @@ C17 T2 Part2
 19.starting a trip=climb into tour of the park and farm. the shed定位词. 
 20.seeing rare breeds of animals=cattle and sheep that are hardly ever found. parkland定位词. 
 
-C17 T2 Par3
+C17 T2 Part3
 23.They agree this was a major strength=the most memorable thing/amazing.
 24.They agree this created the right atmosphere=It helped to change the mood of the quieter scenes/That’s a good point.
 25.They both expected this to be more traditional=it would be more conventional.
 26.They were both disappointed by this=wasted/didn’t have much impact/shame.
 27.They disagree about why this was an issue=I actually didn’t have a problem with that.
+

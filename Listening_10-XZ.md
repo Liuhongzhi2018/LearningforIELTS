@@ -167,6 +167,37 @@ C11 Test3 Section2
 20.F. become the responsibility of a national body=new management.
 
 
+C11 Test4 Section1
+
+P79 P117  音乐场景
+8.A. aimed at five to ten-year-olds.
+9.B. for yourself and your husband.
+10.C. it's for young and old.
+
+C11 Test4 Section2
+
+P79 P117  
+11.E. attracts the largest number of visitors=the most popular exhibits.
+12.D. several of the artists each donated one work=some items given by the artists.
+13.G. sculptures have been moved to other parts=relocated.
+14.B. something about it on TV or in the newspapers=publicised in the media.
+15.C. discovered by ordinary=given by members of the public.
+16.A. by its founder=was given by one person.
+
+C11 Test4 Section3
+
+P79 P117  音乐场景
+21.B. who'd produced recordings, they all had=all made music recordings.
+22.D. extensive tours in different continents=toured internationally.
+23.A. I don't think using the phone meant I got less rich data, rather the opposite in fact=meant rich data could be collected..
+24.B. interview leading musicians=the involvement of top performers.
+25.B. investigate the impact of what was worn on those listening=audience reactions to the dress of performers.
+26.E. whether someone like a violinist might adopt a different style of clothing=
+links between musical instrument and dress choice.
+27.C. men are very much influenced, are more limited.
+28.A. otherwise they'd just be discounted as trivial=their wish to be taken seriously.
+29.A. a kind of esteem=linked to respect for the audience.
+30.A. some features of sports clothing could safeguard the players=protect against physical injury.
 
 
 C10 Test2 Section3

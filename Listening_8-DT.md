@@ -41,6 +41,15 @@ C12 Test8 Section2
 C11 Test1 Section2
 
 
+C11 Test4 Section2
+
+P79 P117
+17.F. go straight ahead, turn right into the corridor, door of the restaurant facing you.
+18.H. go straight ahead, turn right into the corridor, and the café is immediately on the right.
+19.C. straight ahead along the corridor on the left, find the facilities on the left-hand side.
+20.B. last door before you come to the corridor.
+
+
 
 C9 Test4 Section2
 
