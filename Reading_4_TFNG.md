@@ -98,3 +98,33 @@ True-单句同义改写：without any end objective in sight.
 False-反义词设置：raw material on which the Law of Effect operates is not as clearly known as
 36.Many scientists are now turning away from the notion of intelligent design and genius.
 NG-题干中信息不存在：The time seems right for abandoning the naive notions of intelligent design and genius
+
+C11 Test1 Part1
+
+8.Methods for predicting the Earth's population have recently changed.
+NG-题干中信息不存在：Applying the most conservative estimates to current demographic trends.
+9.Human beings are responsible for some of the destruction to food-producing land.
+True-单句同义改写：laid waste 荒废 by poor management practices. 
+10.The crops produced in vertical farms will depend on the season.
+False-关系型驳斥：year-round production of all crops-depend on the season.
+11.Some damage to food crops is caused by climate change.
+True-单句同义改写：rapidly changing climate,destroying=Some damage. 
+12.Fertilisers will be needed for certain crops in vertical farms.
+False-关系型驳斥： All the food could be grown organically-Fertilisers will be needed.
+13.Vertical farming will make plants less likely to be affected by infectious diseases.
+True-单句同义改写：reduce the incidence of many infectious diseases=less likely to be affected. 
+
+C11 Test1 Part2
+
+14.The Falkirk Wheel has linked the Forth & Clyde Canal with the Union Canal for the first time in their history.
+False-反义词设置：restore navigability, reconnecting-for the first time.
+15.There was some opposition to the design of the Falkirk Wheel at first.
+NG-题干中信息不存在：some opposition to.
+16.The Falkirk Wheel was initially put together at the location where its components were manufactured.
+True-单句同义改写：constructed=manufactured, assembled=put together. 
+17.The Falkirk Wheel is the only boat lift in the world which has steel sections bolted together by hand.
+NG-题干中信息不存在：the only boat lift.
+18.The weight of the gondolas varies according to the size of boat being carried.
+False-反义词设置：weigh the same-The weight of the gondolas varies.
+19.The construction of the Falkirk Wheel site took into account the presence of a nearby ancient monument.
+True-单句同义改写：owing to the presence=took into account the presence of. 

@@ -44,5 +44,14 @@ But she adds that taking the work further would be expensive
  ‘There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.’ 
 
 
+C11 Test1 Part3
 
+27.D. historic volcanic explosions=earlier natural phenomenon.
+28.B. has been shown to work=an example of a successful use, May Day parades.
+29.A. a term which=a common definition.
+
+37.B. Phil Rasch, on a given day/within ten to twenty years=may not be long-lasting.
+38.D. Martin Sommerkorn,  thinking thoroughly about this topic=is a topic worth exploring.
+39.C. Dan Lunt, operate at half strength=limit the effectiveness.
+40.A. Roger Angel, no substitute=cannot be replaced.
 
