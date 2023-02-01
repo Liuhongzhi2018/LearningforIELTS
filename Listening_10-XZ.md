@@ -95,10 +95,15 @@ C12 Test5 Section2
 12.A. remove your rings and bracelets=jewellery.
 13.C. don't have any tables free=the restaurant is almost fully booked.
 14.C. the meat slicer is out of bounds=only 18 or older are allowed to use the meat slicer.
+15.A. you need to do it straightaway=follow orders immediately.
+16.E. on your feet all day long=physically demanding.
+
 
 C12 Test7 Section3
 
-
+21.B. changes in libraries to external developments.
+22.C. lasts for 70 years, won't find the latest best-seller or up-to-date.
+23.C. books and magazines will all disappear.
 
 C12 Test8 Section2
 

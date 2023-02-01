@@ -56,3 +56,9 @@ C17 T2 Part3
 26.They were both disappointed by this=wasted/didn’t have much impact/shame.
 27.They disagree about why this was an issue=I actually didn’t have a problem with that.
 
+C12 Test5 Section2
+
+17.Joy Parkins. F. during the day and how long.
+18.David Field. C. injure yourself, appropriate treatment.
+19.Dexter Wills. D. smash a plate 打碎.
+20.Mike Smith. B. takes care of all the stores of perishables 易腐物品.

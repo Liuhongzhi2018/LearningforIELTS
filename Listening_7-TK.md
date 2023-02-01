@@ -71,6 +71,44 @@ C17 Test2 Part4
 40.fluent, neither of which they are fully fluent in=not being fluent in either Icelandic or English
 
 
+C12 Test5 Section1
+
+P11 P96
+1.mountains. take pictures of=take photos of.
+2.horse. trek长途跋涉, on a horse.
+3.gardens. along the side of lake=by the lake.
+4.lunch. not included in the basic cost=available at extra cost.
+5.map. give you a map=map is provided.
+6.experience. got a bit more=some.
+7.Ratchesons.
+8.helmet. rent a helmet=can be hired.
+9.shops. won't see any shops=no shops.
+10.267.
+
+C12 Test5 Section3
+
+24.budget. whether the library has its own budget.
+25.employment. affected by employment laws.
+26.safety. library take to ensure their safety.
+27.insurance. insurance the library needs to have.
+28.diary. the diary of a well-known politician.
+29.database. local organisations, I wonder if they keep a database.
+30.museum. what the differences are between a library and one that's part of a museum
+
+
+C12 Test5 Section4
+
+31.damage. cause=result in.
+32.side effects. arise=may result.
+33.bridge. had to construct a bridge across a stream.
+34.confusion. descended into=experienced.
+35.smartphone. a common cause of poor sales. In the case of a smartphone.
+36.resources. it wastes the resources that companies value.
+37.unnecessary. not to carry out=avoid.
+38.chocolate bar. Some advertising campaigns are remembered.
+39.problem. solve a problem that the company has identified.
+40.market share. pioneers commanded an average market share.
+
 C12 Test7 Section2
 
 P56 P108
