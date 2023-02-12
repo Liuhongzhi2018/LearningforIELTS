@@ -17,7 +17,11 @@ Second, compare specific numbers
 
 Introduction - paraphrase the question
 
+<<<<<<< HEAD
 The pie charts compare five categories of household expenditure in the UK and New Zealand in the years 1980 and 2008 (over the period 1908 to 2008).
+=======
+The pie charts compare five categories of household expenditure in the UK and New Zealand in the years 1980 and 2008.
+>>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c
 
 Overview - 2 sentences, 2 main points
 

@@ -35,6 +35,7 @@ paraphrase: raw materials, end products, production, manufacturing, are mixed-th
 
 steps: steps / stages in the process of, consists of four distinct stages, it requires five steps, at the first stage, next, then, begins with.
 
+<<<<<<< HEAD
 passive verbs: turn used glass into new products, are mixed, is heated, can be shaped, is sorted according to, can be moulded to create.
 
 ## cement and concrete
@@ -46,3 +47,6 @@ At the first stage, limestone and clay are crushed by the crusher into powder. T
 In the process of the concrete production, gravel accounts for 50% of materials, while cement, water and sand represnt 15%, 10% and 25% respectively. These materials are placed in the concrete mixer, which rotated clockwise until concrete is produced.
 
 To sum up, cement production consists of 4 stages, starting from crushing materials into power and ending at bagging cement. In contrast, concrete production is simple, mixing for materials.
+=======
+passive verbs: turn used glass into new products, are mixed, is heated, can be shaped, is sorted according to, can be moulded to create.
+>>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c

@@ -42,6 +42,7 @@ electricity production: amount of electricity produced, source of / provided / g
 
 years: over a period of / over the period shown, by far the most important, a negligible amount
 
+<<<<<<< HEAD
 comparison: nuclear power overtook thermal power, as the primary source of electricity, rose dramatically to a peak of, by contrast, the figure for, remained at this level, remained stable, saw only a small rise
 
 
@@ -56,3 +57,6 @@ Other fuel sources are less significant. Nuclear power consumption saw a steady 
 The use of solar/wind and hydropower is limited, and hydropower is the only fuel source which is projected to fall back to the 1980 figure.
 
 Overall, fossil fuels will make up a large proportion of the energy consumption in the US, whereas renewable resources and nuclear energy will remain insignificant.
+=======
+comparison: nuclear power overtook thermal power, as the primary source of electricity, rose dramatically to a peak of, by contrast, the figure for, remained at this level, remained stable, saw only a small rise
+>>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c

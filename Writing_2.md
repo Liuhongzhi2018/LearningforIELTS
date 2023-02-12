@@ -1,6 +1,6 @@
 # Lesson 2 
 
-## 雅思大作为完成步骤
+## 雅思大作文完成步骤
 
 第一步：审题（2 min）
 1. 题型
@@ -123,3 +123,48 @@ In conclusion, I would argue that going overseas allows for in-depth language le
 
 （The world is competitive as a result of polulation growth and rapid technological progress. 
 ）
+
+
+## 练习 Learning a foreign language
+
+Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language.
+
+Discuss both these views and give your own opinion.
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+Many may say, and I agree, that today's society has almost erased all its boarders and soon will become limitless in what concerns travelling for both work and pleasure. Therefore, if this is to happen, then leaning a new language is necessary.
+
+Nowadays, leaning a new language for the purpose of working in other countries seems to become more and more popular. Adults in need of money or, why not, recognision are trying to pursue their happiness far away from home. Also, the hey days of employers looking only for capable people have gone. It seems that today's employers are looking not only for multi-skilled employees, but they also want people who know more than their mother tongue. Sooner or later, those who omitted learning more are prone to become jobless.
+
+However, to my mind, a new language shouldn't be leaned just for travelling or working in a foreign country. A foreign language should help the learner broaden his mind. But this I mean that the new language should and will allow us to understand more about the world itself, and maybe our ancestors' ways of thinking and acting. Needless to say, knowing another language will help us when it comes to understanding the human race, because language is the first poem of a country.
+
+All of this being said, I believe that learning a different language should be not only for satisfying our physical needs, like money, but also our moral needs, because never before had such a big thirst for knowledge been displayed.
+
+参考译文：
+
+很多人可能会说，当然我也认同，即当今的社会几乎已经抹掉了所有的边界，并且很快那些在工作或休闲旅游中的担忧将不复存在。因此，如果这将发生，那么学外语将成为一种必须。
+
+现在，为了在其他国家工作而学习外语已经变得越来越流行。那些需要钱的或为了认知的成年人试图在远离家的地方追寻幸福。而且，雇主只招聘那些有能力的员工的全盛时期已经过去了。现在的雇主不仅仅招聘多元能力的，还希望有会多种语言的员工。很快，那些不愿学习的人很有可能会失业。
+
+然而，就我而言，学习外语不应该仅仅只是为了在国外旅行或工作。一门外语应该能帮助学习者开阔眼界。这么说是因为新的语言应该并且将会让我们更好地理解世界本身，甚至理解我们先人的思维方式和行为。更不用说，学另一门语言还能有助于我们理解人类，因为语言是国家的第一首诗。
+
+基于所有以上提到的，我认为学外语不应该仅仅为了满足我们的生理需要，比如钱，也应该考虑精神需求，因为以前从未有如此大的对知识的渴求被展示出来。
+
+
+## 练习 Unpaid community service
+
+Some people believe that ... . To what extent do you agree or disagree?
+
+Introduction-2 sentences(5 minutes)
+
+It is sometimes argue that high school students should be made to do some work in their local communities. I completely agree that this kind of scheme would be a good idea. (In my opinion, it would be wrong to force teenagers to do any kind of unsalaried work. / While I disagree with the idea of making such programmes compulsory, I do believe that voluntary community service could benefit young people.) 
+
+Two main paragraphs-5 sentences each(20 minutes)
+
+There are several reasons why I would argue against having compulsory community service for secondary school students. Firstly, the school curriculum is already full with important academic subjects, such as maths, science and languages. For example, I remember having an extremely busy timetable when I was at hign school, and it would not have been possible to add to it. Secondly, students' performance in other subjects would be affected if valuable study time were taken by charity work or neighbourhood improvemnet schemes. Finally, I believe that teenager students would be reluctant to take part in any programme of obligatory work, and this could lead to poor motivation and even bad behaviour. 
+
+On the other hand, the opportunity to do voluntary community service could be extremely positive for high school students. By making these progrmames optional, schools would ensure that only motivated students took part. These young people would gain valuable experience in an adult working environment, which could help to build their self confidence and enhance their skills. Having such experience and skills on their CVs could greatly improve school leavers' career prospects. For example, a period of voluntary work experience might impress a university admission officer or a future employer. 
+
+Conclusion-1 sentence(5 minutes)
+

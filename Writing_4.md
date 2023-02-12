@@ -1,6 +1,6 @@
 # Lesson 4 
 
-## 雅思大作为完成步骤
+## 雅思大作文完成步骤
 
 第一步：审题（2 min）
 1. 题型
@@ -86,3 +86,9 @@ This problem can be alleviated/solved by upgrading/improving public transport ne
 Another solution is urban expansion, which allows for wider distribution of the population across a bigger area. For this purpose, it is appropriate to develop some new neighbourhoods, where more people can live and work around. These inhabitants can work for companies near their homes and walk to work, which can reduce the volume of traffic on main roads/arteries leading to the city cantre. 
 
 In conclusion, population growth is the main reason why different road users have to compete for limited space. This issue can be addressed by enhancing public transport and by creating new suburbs.
+
+## 练习 reoffend
+
+Many ... . Why  and what measures can be taken to tackle this problem?
+
+It is true that punishments do not always deter criminals from committing more crimes. There are various reasons why offenders repeatedly break the law, but governments could certainly take steps to address this issue.

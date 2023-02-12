@@ -42,6 +42,7 @@ paraphrase: current layout, plan to redesign, living space, central hall area, s
 
 verbs: design proposal, planned building work, the design proposal involves, when the building work has been done.
 
+<<<<<<< HEAD
 description of changes: there will no longer be, this will be achieved by moving, will also contain, will also include, will be installed, will be replaced.
 
 ## island
@@ -55,3 +56,6 @@ Tourism has led to some significant changes. A number of accommodation units are
 Between these two groups of accommdation units is a reception with a restaurant lying to the north. There is a vehicle track linking the restaurant and the reception with a T-shaped pier constructed on the southern end of the island, which is used for yaching.
 
 In summary, the island has changed to cater for the needs of tourists, after the construction of these facilities, while the trees have been well preserved.
+=======
+description of changes: there will no longer be, this will be achieved by moving, will also contain, will also include, will be installed, will be replaced.
+>>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c
