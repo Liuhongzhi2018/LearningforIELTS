@@ -1,6 +1,5 @@
 # XDF Lesson 6 选择题
 
-
 ## T/F/NG思路介绍
 
 C6T3S2
