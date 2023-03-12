@@ -59,6 +59,29 @@ C17 T2 Part3
 30.They can be interpreted in many ways=can also be understood on different levels.
 
 
+C16 T1 Section2
+
+11.C. He set up this company when he finished his apprenticeship, in 1926.
+12.A. make goods for hospitals and other players in the healthcare industry.
+13.B. moving to a new location has never been necessary.
+14.C. talking to people – as long as you don’t stop them from doing their work.
+
+
+C16 T1 Section3
+
+21.C. Much less use than the trip to the Natural History Museum.
+22.E. handouts with details of books and websites to look at.
+23.B. Someone told me it’s best not to be too precise about your actual outcome at this stage.
+24.E. I’ve realised the notes from my research are almost all just descriptions, I haven’t actually evaluated anything.
+25.D. You could talk about the possible danger suggested by the bird’s look.
+26.C. Well actually I think I’ll concentrate on the impression of rapid motion it gives.
+27.A. I saw a real kingfisher once when I was little, I was out walking with my grandfather, and I’ve never forgotten it.
+28.H. To me it’s about how ambiguous people are in the way they exploit the natural world.
+29.F. it’s a reference to the never-ending cycle of existence.
+30.G. I like the way he’s holding it carefully so he doesn’t hurt it.
+
+
+
 
 C13 Test2 Section2
 

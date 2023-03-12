@@ -17,6 +17,18 @@ C17 Test1 Part1
 
 
 
+
+C16 Test1 Section2
+
+15.H. corridor running left from here, and if you go along that, the door facing you at the end is the entrance
+16.C. You can get to the warehouse by crossing to the far side of the courtyard, and then the door is on your right.
+17.G. staff canteen. This is right next to reception.
+18.B. You’ll be using the meeting room quite often, and you’ll find it by walking along the corridor to the left of the courtyard, and continuing along it to the end. The meeting room is the last one on the right
+19.I. The human resources department is at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to.
+20.A. the boardroom, where you’ll be meeting sometimes. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.
+
+
+
 C12 Test7 Section3
 
 21.C. where you got the information from.

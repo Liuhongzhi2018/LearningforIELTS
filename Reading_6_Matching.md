@@ -5,6 +5,10 @@
 莫夸境界高，无招胜有招，
 三剑已合璧，笑看雅思谜。
 
+匹配题包括两种：
+句子信息与段落匹配；
+关系型匹配（单词、句子）
+
 ## 剑雅真题
 
 C17 Test1 Part2
@@ -42,6 +46,22 @@ But Kudla didn’t want to reveal which species were in his team’s sights
 But she adds that taking the work further would be expensive
 23.Humans only make use of a small proportion of the plant food available on Earth.
  ‘There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.’ 
+
+
+C16 Test1 Part3
+
+35.B.Hamish Low. Greater levels of automation will not result in lower employment.
+If in 30 years, half of 100 jobs are being carried out by robots, that doesn’t mean we are left with just 50 jobs for humans. The number of jobs will increase: we would expect there to be 150 jobs.
+36.A.Stella Pachidi. There are several reasons why AI is appealing to businesses.
+Organisations are attracted to using algorithms because they want to make choices based on what they consider is perfect information
+37.C.Ewan McGaughey. AI’s potential to transform people’s lives has parallels with major cultural shifts which occurred in previous eras.
+Just as the industrial revolution brought people past subsistence agriculture
+38.A.Stella Pachidi. It is important to be aware of the range of problems that AI causes.
+But these enhancements are not without consequences. Another issue is the extent to which the technology influences or even controls the workforce.
+39.B.Hamish Low. People are going to follow a less conventional career path than in the past.
+The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past.
+40.C.Ewan McGaughey. Authorities should take measures to ensure that there will be adequately paid work for everyone.
+McGaughey’s findings are a call to arms to leaders of organisations, governments and banks to pre-empt the coming changes with bold new policies that guarantee full employment, fair incomes and a thriving economic democracy.
 
 
 C11 Test1 Part3

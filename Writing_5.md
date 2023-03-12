@@ -96,3 +96,31 @@ In conclusion, the law is enacted to promote employees' well-being; however, we 
 As most people ... . What factors contribute to job satisfaction? How realistic is the expectation of job satisfaction for all workers?
 
 Work plays a central role in our lives, and we would all like to feel fullfilled professionally. While a variety of factors may lead to job satisfaction, it would be unrealistic to expect everyone to be happy at work.
+
+
+## 练习 history of the house or building
+
+In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.
+
+What are the reasons for this? How can people research this?
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+Sample 1：
+The trend of homeowners searching for historical information about their homes is becoming more and more popular in many countries. This tendency can be attributed to some definite reasons and there are several ways people can do this.
+
+The primary reason why some people nowadays have the tendency to look for house or building history is that they want to understand the structure. Some people are simply fascinated by the original architecture or the design of the place they are living in. Old buildings that still stand will usually have some interesting history about them. The fact that they survived so long is itself a sign that those buildings were important at the time of their construction. Maybe they were occupied by royal or aristocratic families. Finding out such details can be interesting for many people. For some people, researching the history of the building could be an attempt to avoid staying in a haunted place or something like that. If the building has a haunted past, people can choose not to live in them.
+
+There are many ways people can find this information. The simplest method is that people can ask local citizens for information, especially the elders. Because they are the people who lived in that neighbourhood for a long time,  they will be a worthwhile source of information if anyone wants to understand more about their houses or their living areas. Another way is to search information on the Internet or through other modes such as books or historic articles. To illustrate, many buildings in some areas of Vietnam have a huge source of documents and online information associated with them and it is extremely useful if some people want to understand about the places that they are going to move in.
+
+In conclusion, people are looking up the history of their home because they may be fascinated by its architecture or they may have heard many stories about it. Locals are definitely the best source of information about such buildings. Historical documents may also help.
+
+
+Sample 2：
+In our rather futuristic society for a number of reasons people are getting more interested in the past of their hometowns. With the help of rapidly ameliorating technology their desire to learn about the history can be easily put into life. But what are the roots of such an eagerness?
+
+First of all, the hectic lifestyle that we all experience nowadays does not leave any space for calmness and peace in our souls, so most of the people – especially adolescence – are struggling with finding their feet, whilst having a broad spectrum of knowledge about the world around really gives a feeling of confidence in the impermanence of life. In addition to this, it is said that being aware of the past you can change the future. Consequently, if people want to live a better life in more comfortable environment, they have to explore the history of their homes in order not to repeat past mistakes.
+
+For this aims we are lucky to have multiple tools to carry out research into the subject. Despite libraries being considered as an old-fashioned and not necessarily convinient approach of learning, there are actually quite a few books and magazines which are not available online but which are extremely helpful when it comes to the local interests. News, photos, articles and interviews with different people published in old magazines indeed provide with a clear image of past events. Brousing the internet forums is also a great idea to find new information and make friend with mutual objectives.
+
+Putting everything into a nutshell, learning about the history of your place not only builds a sense of confidence but also might have a big impact on our future way of life.

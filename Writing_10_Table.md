@@ -42,3 +42,14 @@ paraphrase: revenue from tourism, received ... visitors, amounts of tourist reve
 comparison: five hignest ranking countries, the world's most popular tourist destination, earned by far the most, the second most visited country, ranked fifth, fewer visitors than in the previous year, three figures were well over twice as high as.
 
 describing changes over time: 2013 saw a rise of, despite falling numbers, saw a rise, increased, rising from, rose by.
+
+
+## 练习 waste produced 
+
+The chart provides data about the waste production of six countries in the years 1980, 1990 and 2000.
+
+The US produced significantly more waste than other countries did and the amount of waste produced by this country nearly doubled from 2003 to 4005 during the period.
+
+The waste production was noticeably lower in other countries.
+
+Overall, the US and Japan saw an increase in waste production and these two countries also produced much more waste than other countries did.

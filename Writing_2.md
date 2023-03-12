@@ -168,3 +168,30 @@ On the other hand, the opportunity to do voluntary community service could be ex
 
 Conclusion-1 sentence(5 minutes)
 
+
+## 练习 older people
+
+Does this trend have positive or negative effects on society?
+
+People's life expectancy has increase in many societies, possibly because of improvements in technology and the increase in personal wealth. 
+
+One problem associated with an ageing population is that health care cost will escalate, imposing a burden on taxpayers.
+
+On the other hand, many people will postpone retirement and extend their working life, and it is true that their experience and wisdom are a valuable asset to the whole society.
+
+In conclusion, the considerable extension of life expectancy has put strain on health care and made the workforce less productive.
+
+
+## 练习 watching TV
+
+To what extend do you agree or disagree?
+
+Watching TV has been recognised as an an effective method of learning. Although, I do not agree that increasing screen time is a good idea.
+
+Television viewing can interfere with children's studies and other activities which can benefit these children's development.
+
+Another problem is that excessive screen time can affect children's health.
+
+On the other hand, I understand that television has exposed children to a world of knowledge.
+
+To summarise, .

@@ -71,6 +71,36 @@ C17 Test2 Part4
 40.fluent, neither of which they are fully fluent in=not being fluent in either Icelandic or English
 
 
+C16 Test1 Part1
+
+1.egg. design a special cover=create a cover
+2.tower. make the highest=build the tallest
+3.car. balloon, the force of the air powers=powered by a balloon
+4.animals. things like cars and trucks, but also how to construct animals
+5.bridge. build a bridge, and the longest one
+6.movie. think up an idea=create
+7.decorate. build a robot in the shape of a human, and they decorate it and program it
+8.Wednesdays. Wednesdays. The classes are held in the morning.
+9.Fradstone. 
+10.parking. plenty available.
+
+
+C16 Test1 Part4 
+
+31.practical. is the most practical of all philosophies and therefore the most appealing
+32.publication. amazingly=surprisingly, have access to these ideas=well known, never wrote anything down for publication
+33.choices. the choices I make with regard to them, I do control
+34.negative. see as wholly negative=consider as negative
+35.play. put on a play=organised a play
+36.capitalism. theories on capitalism=ideas on capitalism
+37.depression. It’s most commonly used to treat depression=the treatment for depression
+38.logic. behaviours by using logic=base their thinking on logic
+39.opportunity. Stoics teach turning obstacles into opportunity=identifying obstacles as opportunity
+40.practice. require considerable practice=It requires a lot of practice.
+
+
+
+
 C12 Test5 Section1
 
 P11 P96

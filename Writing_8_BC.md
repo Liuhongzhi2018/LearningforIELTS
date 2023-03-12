@@ -37,7 +37,6 @@ global sale: sold worldwide, sales figures, purchases, most popular, best sellin
 comparison: almost double, second most successful, whereas, had become the market leader.
 
 describing changes over time: over the following four years, sales figures fell by approximately 200 million units, saw sales rise by a similar amount, saw the biggest rises, saw declining sales, close to, almost, approximately, around, double the number, rise by a similar amount, respectively, overtook the other two vendors.
-<<<<<<< HEAD
 
 ## reason for study
 
@@ -49,5 +48,15 @@ Around 60% of students aged under 26 received support from employers for further
 
 Overall, younger students are more likely to study for carer purposed, while their older counterparts are more motivated by personal interest. Employers give more support to young students than to employees of other ages.
 
-=======
->>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c
+
+## house price
+
+The bar chart compares five major cities in terms of the changes in the cost of an average house over a period of 13 years.
+
+Between 1996 and 2002, London saw the bigest increase in housing prices of these cities (over 10%), despite a drop of around 7% in the previous.
+
+Tokyo was the only city where the average house price dropped in both periods, around 7% in the five years and then another 5%.
+
+The costs of an average home in both Madrid and Frankfurt climbed before 1995, 1% and 2% respectively.
+
+Overall, the property prices in London and New York were volatile during this 13-year period, in contrast to the consistently rising prices in Madrid and Frankfurt. Tokyo's houses were increasinglu affordable. 

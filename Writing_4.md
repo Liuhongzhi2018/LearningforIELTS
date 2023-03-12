@@ -92,3 +92,18 @@ In conclusion, population growth is the main reason why different road users hav
 Many ... . Why  and what measures can be taken to tackle this problem?
 
 It is true that punishments do not always deter criminals from committing more crimes. There are various reasons why offenders repeatedly break the law, but governments could certainly take steps to address this issue.
+
+
+## 练习 throw-away society
+
+Why has this happened and how to address this issue?
+
+People are likely to use products only once instead of keeping these items for a long time.
+
+Consumers today do not keep many goods for a long period of time because these products are not as expensive as before.
+
+Another reason is that people lack environmental awareness.
+
+As the overconsumption of consumer goods is pervasive, it is important to take some measures to mitigate this problem.
+
+To summarise,  .

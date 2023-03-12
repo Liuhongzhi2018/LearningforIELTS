@@ -100,3 +100,14 @@ Some people think that ..., while others believe that... . Discuss both views an
 People have different views about the effectiveness of group study as opposed to working alone. While there are some benefits to studying independently, I believe that group work is usually more productive.
 
 
+## 练习 children should obey the rules
+
+Discuss both views and state your own opinion.
+
+Children are expected to obey different rules either at home or at school. Strict discipline is sometimes important, but it would have an adverse impact on.
+
+The main function of rules is to hold children accountable for their behaviour and to help them develop good behaviour patterns from a young age. For example, children can learn how to show good manners and get along with others.
+
+Sometimes rules may not have a positive influence on children, if those parents who establish the strict rules give priority to children's obedience.
+
+Strict rules can stifle children's creativity and they are not able to solve problems in different ways.

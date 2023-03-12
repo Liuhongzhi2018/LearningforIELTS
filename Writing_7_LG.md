@@ -42,7 +42,6 @@ electricity production: amount of electricity produced, source of / provided / g
 
 years: over a period of / over the period shown, by far the most important, a negligible amount
 
-<<<<<<< HEAD
 comparison: nuclear power overtook thermal power, as the primary source of electricity, rose dramatically to a peak of, by contrast, the figure for, remained at this level, remained stable, saw only a small rise
 
 
@@ -57,6 +56,20 @@ Other fuel sources are less significant. Nuclear power consumption saw a steady 
 The use of solar/wind and hydropower is limited, and hydropower is the only fuel source which is projected to fall back to the 1980 figure.
 
 Overall, fossil fuels will make up a large proportion of the energy consumption in the US, whereas renewable resources and nuclear energy will remain insignificant.
-=======
-comparison: nuclear power overtook thermal power, as the primary source of electricity, rose dramatically to a peak of, by contrast, the figure for, remained at this level, remained stable, saw only a small rise
->>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c
+
+
+## 练习 C16 T1 Household
+
+The line graphs given above show the changes in the percentage of families owning of electrical machineries and the amount of time each family spent doing housework in one nation between 1920 and 2019. 
+
+From the first chart, the most dramatic change in electrical types of equipment can be seen in refrigerator usage. It started to use in 1920 and significantly increased from 0% to 100% for six decades. A similar trend can be applied to vacuum cleaners, which consistently rose until 100% usage form 2910 to 2000. Apart from that, the washing machine used moderately climbed from 40% to 75%. Although it once fell in 1980, it reached the peak of its use at the end of the period.
+
+However, reversing the change in the number of machines used for household activities, the hours of housework per week continued to decrease. In 2019, people needed one-fifth of previous hours in 1920 for washing clothes, preparing meals and cleaning compare.
+
+In general, electrical machines that used for house indicates positive trend between 1920 and 2019. In contrast, in the same peiod, the time which is needed for carrying out the housework for a week got fewer and fewer.
+
+The charts given above depict the changes in the percentage of families owning of electrical appliances and the amount of time each family spent doing housework in one country between 1920 and 2019. The first chart shows the percentage of families owning electrical appliances between the years 1920 and 2019. The ownership of refrigerator showed a sharp rise  from the year 1920 to 1960 after which the ownership of refrigerators  showed a plateau up to 2019.This chart also depicts that in the year 1920,  30% and 40% of the population were already using the vacuum cleaner and washing machine respectively. The usage of vacuum cleaners showed a steady rise until 1960 when as much as 90% of the families owned it. Afterwards, it remained stagnant. The ownership of washing machines also increased but only slightly.  The second chart shows the usage of these electrical appliances for housework in terms of number of hours per week. It shows that the number of hours spent doing household chores decreased sharply from 50 hours/week in 1920 to just 10 hours/week in 2019 owing to the widespread use of home appliances.
+
+
+
+

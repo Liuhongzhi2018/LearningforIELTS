@@ -17,11 +17,8 @@ Second, describe specific numbers for each chart separately
 
 Introduction - paraphrase the question
 
-<<<<<<< HEAD
 The bar chart compares the numbers of males and females who took four different evening classes in 2009, and the pie chart shows the age profile of these attendees(attendants).
-=======
 The bar chart compares the numbers of males and females who took four different evening classes in 2009, and the pie chart shows the age profile of these attendees.
->>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c
 
 Overview - 2 sentences, 2 main points
 

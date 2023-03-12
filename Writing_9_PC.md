@@ -17,11 +17,8 @@ Second, compare specific numbers
 
 Introduction - paraphrase the question
 
-<<<<<<< HEAD
 The pie charts compare five categories of household expenditure in the UK and New Zealand in the years 1980 and 2008 (over the period 1908 to 2008).
-=======
 The pie charts compare five categories of household expenditure in the UK and New Zealand in the years 1980 and 2008.
->>>>>>> 07938cbb2db79d83f0e04e5982ab6838740bb91c
 
 Overview - 2 sentences, 2 main points
 
@@ -50,3 +47,14 @@ spending: expenditure, spent, costs, proportion of spening, percentage of househ
 comparison: than their New Zealand counterparts, 29% of an average household budget went on, while, by contrast, leisure accounted for the highest proportion, spent half as much in relative term.
 
 describing changes over time: fell, rose, saw an increase in, by 2008, expenditure has fallen, spent a significantly larger percentage.
+
+
+## ages of the population
+
+The charts show the changes in the age profile of two countries in two separate years, 2000 and 2050.
+
+In Yemen, the proportion of people aged 15 to expected to rise significantly from 46.3% to 57.3% in 2050.
+
+Those aged 60 or above are projected to represent 42.3% of Italy's population in 2050, an increase of around 18%.
+
+Overall, the projection is that the populations of both countries will become older. Italy had an older poppulation than Yemen in the year 2000, and the same is predicted in 2050.

@@ -9,6 +9,12 @@ Summary，Sentence Completion，Short Answer，Table Completion，Flowchart
 顺藤能摸瓜，按图可索骥，
 答案常集中，原是送分题。
 
+单词填写题可细分为（四种体）：
+1.原文选择完成摘要
+2.单词列表完成摘要
+3.原文选词完成句子
+4.原文选择回答问题
+
 ## 剑雅真题
 
 C17 Test1 Part1
@@ -81,6 +87,45 @@ luck=a happy accident
 40.goals
 there may be no clear goals involved, but merely a process of variation and selection.
 goals=end objective
+
+
+C16 Test1 Part1
+8.violent
+there may be no clear goals involved, but merely a process of variation and selection.
+goals=end objective
+9.tool
+Osaka, has even been observed making use of a tool to manipulate his environment.
+10.meat
+The bear used a tree branch on multiple occasions to dislodge a piece of meat hung out of his reach.
+11.photographer
+A calculated move by a male bear involved running and jumping onto barrels in an attempt to get to a photographer standing on a platform four metres high.
+12.game
+bears putting objects in piles and then knocking them over in what appeared to be a game.
+13.frustration
+many bears have been seen to hit out at ice and snow – seemingly out of frustration
+
+
+C16 Test1 Part2
+21.city
+The complex in which it was built was the size of a city in ancient Egypt
+22.priests
+included a temple, courtyards, shrines, and living quarters for the priests
+23.trench
+the entire wall was then ringed by a trench 750 meters long
+24.location
+he or she would have needed to know in advance how to find the location of the true opening in the wall
+
+
+C16 Test1 Part3
+31.satisfaction
+some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs that are dependent on data
+32.reliance
+become dependent on its instructions
+33.intuition
+where experimentation and human instinct lead to progress and new ideas
+34.confidence
+Their objective is to make AI technologies more trustworthy and transparent
+
 
 
 C12 Test5 Part2

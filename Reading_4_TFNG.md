@@ -5,8 +5,26 @@ True / False / Not Given
 判断实不难，真假未提及，
 末题少驳斥，首题少N G 。
 我有七种意，天下剑桥题。
-多选找并列， 单选是TRUE题，
+多选找并列，单选是TRUE题，
 如遇选标题，末段加大意。
+
+TRUE题的命题方法有三种：
+1.True-单句同义改写；
+2.True-上下文相邻句子归纳总结；
+3.True-不同段归纳总结
+
+FALSE题的命题方法有二种：
+1.False-反义词设置；
+2.False-关系或事实驳斥
+
+NOT GIVEN题的命题方法有三种：
+1.NG-题干中信息不存在；
+2.NG-题干中描述的关系不存在
+
+选择题可以细分为：
+1.单选题（ABCD），命题规则一句话同义改写，上下文归纳；
+2.多选题（五选二），并列项同义改写；
+3.选标题（全文中心思想），末段必然是全篇的结论和总结
 
 ## 剑雅真题
 
@@ -98,6 +116,43 @@ True-单句同义改写：without any end objective in sight.
 False-反义词设置：raw material on which the Law of Effect operates is not as clearly known as
 36.Many scientists are now turning away from the notion of intelligent design and genius.
 NG-题干中信息不存在：The time seems right for abandoning the naive notions of intelligent design and genius
+
+
+C16 Test1 Part1
+
+1.Polar bears suffer from various health problems due to the build-up of fat under their skin。
+False-关系型驳斥：Yet the polar bear experiences no such consequences.
+2.The study done by Liu and his colleagues compared different groups of polar bears.
+False-反义词设置：polar bears with that of their closest relatives.
+3.Liu and colleagues were the first researchers to compare polar bears and brown bears genetically.
+NG-题干中信息不存在：They compared the genetic structure of polar bears
+4.Polar bears are able to control their levels of ‘bad’ cholesterol by genetic means.
+True-单句同义改写：polar bears had a gene known as APoB, which reduces levels of low-density lipoproteins (LDLs) – a form of ‘bad’ cholesterol
+5.Female polar bears are able to survive for about six months without food.
+True-单句同义改写：This process results in about six months of fasting
+6.It was found that the bones of female polar bears were very weak when they came out of their dens in spring.
+False-反义词设置：Despite this, their bones remain strong and dense.
+7.The polar bear’s mechanism for increasing bone density could also be used by people one day.
+True-单句同义改写：If the mechanism of bone remodelling in polar bears can be understood, many bedridden humans, and even astronauts, could potentially benefit.
+
+
+C16 Test1 Part2
+25.B.There is disagreement concerning the length of his reign.
+Djoser is thought to have reigned for 19 years, but some historians and scholars attribute a much longer time for his rule
+26.A.few of his possessions were still in his tomb when archaeologists found it.
+all archaeologists found were a small number of his valuables overlooked by the thieves.
+
+
+C16 Test1 Part3
+27.B.the extent to which AI will alter the nature of the work that people do.
+all workers will need to adapt as their occupations evolve alongside increasingly capable machines.
+28.D.It is a key factor driving current developments in the workplace.
+believes that some of the most fundamental changes are happening as a result of the ‘algorithmication’ of jobs 
+29.C.staff making sure that AI produces the results that they want
+Pachidi and colleagues even observed people developing strategies to make the algorithm work to their own advantage.
+30.D.illustrates how changes in the job market can be successfully handled.
+But social policies can tackle this through retraining and redeployment.
+
 
 C11 Test1 Part1
 
