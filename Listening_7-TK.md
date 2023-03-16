@@ -100,6 +100,25 @@ C16 Test1 Part4
 
 
 
+C16 Test2 Part1
+
+1.frame. And some of them are in a frame – should I take them out before I send them. must not be in=take them out.
+2.195. We charge £195 for 300 to 400 photos for the basic service.
+3.payment. once we’ve received the payment.
+4.Grandparents. So I could have one called ‘Grandparents’ for instance.
+5.colour|color. we can sometimes touch up the colour a bit, or improve the contrast.
+6.hand. No, if any look particularly fragile, we’d do them by hand.
+7.background. so if you want to remove an object from a photo, or maybe alter the background.
+8.focus. and talking of fixing photos – I’ve got a few that aren’t properly in focus.
+9.ten|10 days. We aim to get the copying done in ten days.
+10.plastic. We’ve found that plastic ones sometimes break in the post.
+
+
+拼写错误：Grandparents复数，hand单数
+发音不熟：frame，195
+漏听：focus
+生词：attic n.阁楼，顶楼；restrictions n.限制，限制条件（restriction 的复数）；all sorts of 各种各样的；centimetres n.厘米，公分；cope with 处理，应付；frame n.框架，边框；be stuck into 陷入；parcel n.<英>包裹，邮包；sort out 挑选出，分类；folder 文件夹；touch up 润色，修改；fragile adj.易碎的，易损的；focus n.重点，中心点，关注，注意，震源；目的，意图，焦距；pack up 整理，把……打包；post off 匆匆出发；cardboard n.硬纸板，纸板箱；plastic adj. 塑料制的；scan the photos 扫描照片；make any improvements 改进.
+
 
 C12 Test5 Section1
 

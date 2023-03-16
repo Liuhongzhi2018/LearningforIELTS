@@ -48,12 +48,14 @@ NG-题干中信息不存在：known as the ‘Tuppenny Tube’, began operation 
 
 
 C17 Test1 Part2
+
 23-24. When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?
 多选找并列, situated in suburban areas, may not be as accessible to=less convenient locations, fallen into disuse and disrepair=less versatile.
 25-26. Which TWO advantages of modern stadium design does the writer mention?
 多选找并列, space up to families and a wider cross-section of society=bringing community life back into the city environment, electricity supply network/power plants=power generators
 
 C17 Test1 Part3
+
 32.Charles chose Pepys for the task because he considered him to be trustworthy.
 NG-题干中信息不存在：Charles II requested a meeting with the writer and diarist Samuel Pepys.
 33.Charles’s personal recollection of the escape lacked sufficient detail.
@@ -137,6 +139,7 @@ True-单句同义改写：If the mechanism of bone remodelling in polar bears ca
 
 
 C16 Test1 Part2
+
 25.B.There is disagreement concerning the length of his reign.
 Djoser is thought to have reigned for 19 years, but some historians and scholars attribute a much longer time for his rule
 26.A.few of his possessions were still in his tomb when archaeologists found it.
@@ -144,6 +147,7 @@ all archaeologists found were a small number of his valuables overlooked by the 
 
 
 C16 Test1 Part3
+
 27.B.the extent to which AI will alter the nature of the work that people do.
 all workers will need to adapt as their occupations evolve alongside increasingly capable machines.
 28.D.It is a key factor driving current developments in the workplace.
@@ -152,6 +156,26 @@ believes that some of the most fundamental changes are happening as a result of 
 Pachidi and colleagues even observed people developing strategies to make the algorithm work to their own advantage.
 30.D.illustrates how changes in the job market can be successfully handled.
 But social policies can tackle this through retraining and redeployment.
+
+
+C16 Test2 Part1
+
+1.Most geoglyphs in England are located in a particular area of the country.
+True-单句同义改写：with the vast majority on the chalk downlands of the country’s southern counties.
+2.There are more geoglyphs in the shape of a horse than any other creature.
+NG-题干中描述的关系不存在：The figures include giants, horses, crosses and regimental badges.
+3.A recent dating of the Uffington White Horse indicates that people were mistaken about its age.
+True-单句同义改写：The White Horse has recently been re-dated and shown to be even older than its previously assigned ancient pre-Roman Iron Age* date.
+4.Historians have come to an agreement about the origins of the Long Man of Wilmington.
+False-反义词设置：More controversial is the date of the enigmatic Long Man of Wilmington in Sussex. While many historians are convinced the figure is prehistoric, others believe that it was the work of an artistic monk from a nearby priory and was created between the 11th and 15th centuries.
+5.Geoglyphs were created by people placing white chalk on the hillside.
+False-反义词设置：The method of cutting these huge figures was simply to remove the overlying grass to reveal the gleaming white chalk below.
+6.Many geoglyphs in England are no longer visible.
+True-单句同义改写：One reason that the vast majority of hill figures have disappeared is that when the traditions associated with the figures faded.
+7.The shape of some geoglyphs has been altered over time.
+True-单句同义改写：over hundreds of years the outlines would sometimes change due to people not always cutting in exactly the same place.
+8.The fame of the Uffington White Horse is due to its size.
+NG-题干中信息不存在：The Uffington White Horse is a unique, stylised representation of a horse consisting of a long, sleek back, thin disjointed legs, a streaming tail, and a bird-like beaked head.
 
 
 C11 Test1 Part1
@@ -168,6 +192,7 @@ True-单句同义改写：rapidly changing climate,destroying=Some damage.
 False-关系型驳斥： All the food could be grown organically-Fertilisers will be needed.
 13.Vertical farming will make plants less likely to be affected by infectious diseases.
 True-单句同义改写：reduce the incidence of many infectious diseases=less likely to be affected. 
+
 
 C11 Test1 Part2
 

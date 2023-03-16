@@ -127,6 +127,19 @@ where experimentation and human instinct lead to progress and new ideas
 Their objective is to make AI technologies more trustworthy and transparent
 
 
+C16 Test2 Part1
+
+9.Ridgeway
+below the Ridgeway, a long-distance Neolithic** track.
+10.documents
+The earliest evidence of a horse at Uffington is from the 1070s CE when ‘White Horse Hill’ is mentioned in documents from the nearby Abbey of Abingdon.
+11.soil
+However, in 1995 Optically Stimulated Luminescence (OSL) testing was carried out by the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body.
+12.fertility
+who was worshipped as a protector of horses, and for her associations with fertility.
+13.Rhiannon
+It is possible that the carving represents a goddess in native mythology, such as Rhiannon, described in later Welsh mythology as a beautiful woman dressed in gold and riding a white horse.
+
 
 C12 Test5 Part2
 
