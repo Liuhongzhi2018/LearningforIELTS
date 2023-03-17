@@ -82,6 +82,34 @@ C16 T1 Section3
 
 
 
+C16 T2 Section2
+
+11.C. a local council building.
+His heir chose to sell it to the local council. 注意 but he died before it was completed.
+12.B. The lower school site will be used for new homes.
+Developers will construct houses on the existing lower school site.
+13.A. long queuing times.
+But there’s only one serving point, so most pupils have to wait a considerable time to be served.
+14.A. help their children to decide in advance which serving point to use..
+is to discuss with your children each morning which type of food they want to eat that day, so they can go straight to the relevant serving point.
+15.A. Pupils can take their food into it.
+pupils can eat food from the Food Hall or lunch they’ve brought from home.
+16.D. World Adventures daily change in menu.
+One serving point we call World Adventures. This will serve a different country’s cuisine each day, maybe Chinese one day and Lebanese the next.
+17.A. Street Life pupils help to plan menu. 
+We'll ask pupils to make suggestions.
+18.B. Speedy Italian only vegetatian food.
+The Speedy Italian serving point will cater particularly for the many pupils who don’t eat meat or fish.
+19.B. piano.
+And a former pupil has given a magnificent grand piano to the school.
+20.C. acting.
+we’re going to start drama classes in there.
+
+发音不熟：frame，195
+漏听：focus
+生词：bring you up to date with 简单介绍一下情况；various adj.各种各样的；迥异的，千差万别的；over a century old 已有百年历史；commissioned v.委任（commission 的过去分词）；intended as 把……当作；heir n.继承人，子嗣；接班人；turned it into 把它变成；come about v.发生；产生；改变方向；nucleus n.原子核；细胞核；核心，中心；be separated from 与……分离；granted for 授予；imminent adj.即将发生的，临近的；catering facilities 公共饮食业设施；lunch period 午餐时间；relevant serving point 相关服务点；top up 加满，充值；storage n.储存，贮藏；side dishes 小菜附加点心，配菜；desserts 甜食，甜点；cuisine n.烹饪，风味；饭菜，菜肴；Lebanese adj.黎巴嫩的；黎巴嫩人的；黎巴嫩文化的；Ethiopia n.埃塞俄比亚；Jamaican adj.牙买加的；牙买加人的；plenty of variety 种类繁多；dozens of 几十，许多; off-road adj.越野的；take part in 参与；a magnificent grand 富丽堂皇的
+
+
 
 C13 Test2 Section2
 
