@@ -120,6 +120,44 @@ C16 Test2 Part1
 生词：attic n.阁楼，顶楼；restrictions n.限制，限制条件（restriction 的复数）；all sorts of 各种各样的；centimetres n.厘米，公分；cope with 处理，应付；frame n.框架，边框；be stuck into 陷入；parcel n.<英>包裹，邮包；sort out 挑选出，分类；folder 文件夹；touch up 润色，修改；fragile adj.易碎的，易损的；focus n.重点，中心点，关注，注意，震源；目的，意图，焦距；pack up 整理，把……打包；post off 匆匆出发；cardboard n.硬纸板，纸板箱；plastic adj. 塑料制的；scan the photos 扫描照片；make any improvements 改进.
 
 
+C16 Test2 Part3
+
+25.history. And some of them are in a frame – should I take them out before I send them. must not be in=take them out.
+26.paper. We charge £195 for 300 to 400 photos for the basic service.
+27.humans|people. once we’ve received the payment.
+28.stress. So I could have one called ‘Grandparents’ for instance.
+29.graph. we can sometimes touch up the colour a bit, or improve the contrast.
+30.evaluate. No, if any look particularly fragile, we’d do them by hand.
+
+
+拼写错误：humans
+发音不熟：half-asleep adj.半昏睡的；半睡半醒的;
+漏听：graph n.图表，曲线图
+生词：department n.（组织或机构中的）部，司，系，处，科；literature n.文学，文学作品；methodology n.方法论，一套方法；observation n.观察，监视，观察力，观察资料，观察结果，言论，评论，遵守，奉行，测天；appropriate adj.合适的，相称的；in this case 在这种情况；straight adv.直线地，径直地，竖直地，直立地；立即，马上;ethical guidelines 伦理准则; involves v.包含，牵涉；put under 使处于……下方；calculate the correlation 计算相关性；evaluate v.评价，评估; straightforward adv.直截了当地，坦率地
+
+
+C16 Test2 Part4
+
+31.creativity. And some of them are in a frame – should I take them out before I send them. must not be in=take them out.
+32.therapy. We charge £195 for 300 to 400 photos for the basic service.
+33.fitness. once we’ve received the payment.
+34.balance. So I could have one called ‘Grandparents’ for instance.
+35.brain. we can sometimes touch up the colour a bit, or improve the contrast.
+36.motivation. No, if any look particularly fragile, we’d do them by hand.
+37.isolation. And some of them are in a frame – should I take them out before I send them. must not be in=take them out.
+38.calories. We charge £195 for 300 to 400 photos for the basic service.
+39.obesity. once we’ve received the payment.
+40.habit. So I could have one called ‘Grandparents’ for instance.
+
+拼写错误：calories n.卡路里（热量单位，calorie 的复数）
+发音不熟：isolation n.隔离，孤立; obesity n.过度肥胖，肥胖症
+漏听：obesity
+生词：a universal response to 普遍的反应；is extremely good for 十分有利；other forms of 其他形式的; releas hormones 释放激素；dopamine n.多巴胺；reduce feelings of stress or anxiety 减少压力或焦虑感；a sociable activity 社交活动；enjoyment n.乐趣，乐事；享受，享有；studio n.录音室，播音室，演播室；York and Sheffield 约克和谢菲尔德；cycle v.骑自行车，循环；cognitive tasks 感知任务；problem-solving tasks 问题解决任务；suffering from 忍受，遭受, 患……病, 受……之苦; mental health problems 心理健康问题;be prescribed as 被描述成……;  overcome issues 克服问题; depression n.抑郁，沮丧; It’s well established that 这是众所周知的; adolescent girls 少女; enormous benefits 巨大的好处; in their sixties and beyond 六十岁以上的老人; no barriers to 没有障碍; standard of fitness 健康标准; workout n.锻炼，训练, 试验; promote v.促进; result in 导致；a broken hip 髋骨骨折；different steps and routines 不同的步骤和惯例; retain v.保持，保留,保存，储存,记住; Ballroom n.舞厅,跳舞场; collaboration n.合作，协作; interaction n.互动，交流，相互影响，相互作用；Zumba n.尊巴（一种健身舞）；an aerobic workout 有氧运动；regulars n.常客；burn v.燃烧，消耗；moderately intense exercises 中等强度的运动；step aerobics 有氧踏板操；kickboxing n.跆拳道;body fat 体脂肪;attend classes 上课; physical fitness gains 体能提升
+
+
+31、creativity32、therapy33、fitness34、balance35、brain36、motivation37、isolation38、calories39、obesity40、habit
+
+
 C12 Test5 Section1
 
 P11 P96

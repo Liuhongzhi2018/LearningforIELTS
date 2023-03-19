@@ -110,6 +110,22 @@ we’re going to start drama classes in there.
 生词：bring you up to date with 简单介绍一下情况；various adj.各种各样的；迥异的，千差万别的；over a century old 已有百年历史；commissioned v.委任（commission 的过去分词）；intended as 把……当作；heir n.继承人，子嗣；接班人；turned it into 把它变成；come about v.发生；产生；改变方向；nucleus n.原子核；细胞核；核心，中心；be separated from 与……分离；granted for 授予；imminent adj.即将发生的，临近的；catering facilities 公共饮食业设施；lunch period 午餐时间；relevant serving point 相关服务点；top up 加满，充值；storage n.储存，贮藏；side dishes 小菜附加点心，配菜；desserts 甜食，甜点；cuisine n.烹饪，风味；饭菜，菜肴；Lebanese adj.黎巴嫩的；黎巴嫩人的；黎巴嫩文化的；Ethiopia n.埃塞俄比亚；Jamaican adj.牙买加的；牙买加人的；plenty of variety 种类繁多；dozens of 几十，许多; off-road adj.越野的；take part in 参与；a magnificent grand 富丽堂皇的
 
 
+C16 T2 Section3
+
+21.B. we might otherwise be confused about what is real.
+we might get mixed up about what actually happened and what we dreamed.
+22.A. It may just be due to chance.
+but the explanation I’ve read is that for each dream that comes true, we have thousands that don’t. So it’s just a coincidence really.
+23.C. failed to reach any clear conclusions.
+But they didn’t really find an answer.
+24.C. self-assessment.
+Last time I had problems with the final stage, where we had to describe and justify how successful we thought we’d been. but I got marked down for the self-assessment as well.
+
+发音不熟：wake up 醒来; aren’t that interesting 不那么有趣
+漏听：as well 也，同样地，还不如，此外
+生词：mixed up adj.混淆不清的，困惑的; a sort of protection 一种保护; all that stuff 所有这些东西; trigger a dream memory 触发梦境记忆; coincidence n.巧合，同时发生；相符，一致；符合; segmented sleeping 分段睡眠; get up 起床，起立, 建造, 增加, 打扮, 伪造; fit in with vt.适应，符合，与……一致；working out 规划（制定，作成，计算，算出）；appropriate methodology 适当的方法；patterns n.模式（pattern 的复数形式）；struggled a bit with 有点纠结于；marked down 记下，减价，降低分数；self-assessment n.自我评估
+
+
 
 C13 Test2 Section2
 
