@@ -155,7 +155,24 @@ C16 Test2 Part4
 生词：a universal response to 普遍的反应；is extremely good for 十分有利；other forms of 其他形式的; releas hormones 释放激素；dopamine n.多巴胺；reduce feelings of stress or anxiety 减少压力或焦虑感；a sociable activity 社交活动；enjoyment n.乐趣，乐事；享受，享有；studio n.录音室，播音室，演播室；York and Sheffield 约克和谢菲尔德；cycle v.骑自行车，循环；cognitive tasks 感知任务；problem-solving tasks 问题解决任务；suffering from 忍受，遭受, 患……病, 受……之苦; mental health problems 心理健康问题;be prescribed as 被描述成……;  overcome issues 克服问题; depression n.抑郁，沮丧; It’s well established that 这是众所周知的; adolescent girls 少女; enormous benefits 巨大的好处; in their sixties and beyond 六十岁以上的老人; no barriers to 没有障碍; standard of fitness 健康标准; workout n.锻炼，训练, 试验; promote v.促进; result in 导致；a broken hip 髋骨骨折；different steps and routines 不同的步骤和惯例; retain v.保持，保留,保存，储存,记住; Ballroom n.舞厅,跳舞场; collaboration n.合作，协作; interaction n.互动，交流，相互影响，相互作用；Zumba n.尊巴（一种健身舞）；an aerobic workout 有氧运动；regulars n.常客；burn v.燃烧，消耗；moderately intense exercises 中等强度的运动；step aerobics 有氧踏板操；kickboxing n.跆拳道;body fat 体脂肪;attend classes 上课; physical fitness gains 体能提升
 
 
-31、creativity32、therapy33、fitness34、balance35、brain36、motivation37、isolation38、calories39、obesity40、habit
+C16 Test3 Section1
+
+1.park. but first they’re taken to ride in the park, away from the traffic.
+2.blue. Then the instructors themselves are in blue shirts.
+3.reference. In order to be accepted, all our instructors have to submit a reference from someone who’s seen them work with children.
+4.story. They’re out riding most of the time but they have quiet times too, where their instructor might tell them a story that’s got something to do with cycling, or get them to play a game together.
+5.rain. Now, what happens if there’s rain. We don’t let that put us off – we just put on our waterproofs and keep cycling.
+6.snack. And a snack for break time.
+7.medication. And just at present Charlie has to take medication every few hours, so I’ll make sure he has that.
+8.helmet. The most important is that we have a very careful check to make sure that every child’s helmet fits properly.
+9.tent. Then after that, all the instructors will be waiting to meet their classes, and they’ll meet up in the tent.
+10.199. One hundred ninety-nine dollars.
+
+拼写错误：medication n.药物，药品；药物治疗；
+发音不熟：tent n.帐篷；
+漏听：rain n.雨，雨水；
+生词：upwards adv.向上，在上部，向上游；start off 出发，开始；instructors n.教练，讲师，指导书；supervisors n.监察人；stand in 当替身；put it off 延后，搁置；waterproofs n.防水衣物，雨衣；fit v.（衣服）合身；可容纳；
+
 
 
 C12 Test5 Section1

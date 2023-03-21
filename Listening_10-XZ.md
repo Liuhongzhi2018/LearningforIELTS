@@ -126,6 +126,35 @@ Last time I had problems with the final stage, where we had to describe and just
 生词：mixed up adj.混淆不清的，困惑的; a sort of protection 一种保护; all that stuff 所有这些东西; trigger a dream memory 触发梦境记忆; coincidence n.巧合，同时发生；相符，一致；符合; segmented sleeping 分段睡眠; get up 起床，起立, 建造, 增加, 打扮, 伪造; fit in with vt.适应，符合，与……一致；working out 规划（制定，作成，计算，算出）；appropriate methodology 适当的方法；patterns n.模式（pattern 的复数形式）；struggled a bit with 有点纠结于；marked down 记下，减价，降低分数；self-assessment n.自我评估
 
 
+C16 T3 Section2
+
+11.A. the active lifestyle
+For a start, they often offer opportunities for those who don’t want to be stuck with a 40-hour week, but need to juggle work with other responsibilities such as child care.
+12.C. the flexible working opportunities.
+And these sectors do provide some very special career opportunities.
+(not B) Salaries can sometimes be good too, although there’s a lot of variety here.
+(not D) And you may have the opportunity in some types of jobs for travel overseas, although that obviously depends on the job, and not everyone is keen to do it.
+(not E) Some people like working in a rural setting, surrounded by plants and trees instead of buildings, although we can’t guarantee that.
+13.B. being in a very quiet location.
+But if you like a lively city environment surrounded by lots of people, these jobs are probably not for you – they’re often in pretty remote areas.
+14.C. difficult weather conditions at times.
+It’s fine in summer, but can be extremely unpleasant when it’s cold and windy.
+(not A)  And standards of health and safety are much higher now than they used to be, so there are fewer work-related accidents.
+(not D) And some people worry about finding a suitable place to live, but in our experience, this usually turns out fine.
+(not E) You may need to be pretty fit for some jobs, though with modern technology that’s not as important as it once was.
+15.D. Fresh food commercial manager intensive work but also fun. the staff there work hard, but they play hard as well.
+16.F. Agronomist chance for rapid promotion. There are good opportunities for the right person to quickly make their way up the career ladder.
+17.A. Fresh produce buyer not a permanent job. a fresh produce buyer who is available for a 12-month maternity cover contract.
+18.H. Garden centre sales manager local travel involved. This post is only suitable for someone who is prepared to live in the region.
+19.C. Tree technician experience not essential. A year’s experience would be preferred but the company might be prepared to consider someone who has just completed an appropriate training course.
+20.G. Farm worker accommodation available. Perks of the job include the possibility of renting a small cottage on the estate
+
+
+漏听：12-month maternity cover contract；although we can’t guarantee that
+生词：recruitment n.招募，招聘；specialists n.专家；agriculture and horticulture 农业及园艺；sectors n.
+部门，分区；be stuck with 无法摆脱；juggle work with 兼顾工作和其他；rural setting 农村背景；a big plus 一个很大的优势；is keen to do 渴望做；be pretty fit for 非常适合；standard of ……的标准；work-related accidents 与工作相关的事故；in pretty remote areas 在相当偏远的地区；turns out v.（以某种方式）发生，最后是，结果是，出席，参加，前去观看，关掉，熄灭（电灯、煤气等），生产，制造；a range of 一系列，一些，一套；fast-paced environment 快节奏的环境；low profit margins 低利润率；work hard 努力工作；play hard 尽情地玩；a sociable personality 善于交际的性格；crop nutrition 作物营养；protection against pests 防虫；make their way up 向上攀登；career ladder 职业阶梯；a deep knowledge of 深刻的知识；maternity cover contract 生育保险合同；a very competitive salary 非常有竞争力的薪水；a chain of 一系列的；live in the region 在当地居住；a vacancy for 职位空缺；carry out vt.执行，实行，贯彻，实现，完成；in safety procedures 在安全程序中；appropriate adj.合适的，相称的；farm duties 农业职责；crop sowing 作物播种；harvesting n.收割，收获；perks n.特权，额外津贴（perk 的复数），特别待遇；cottage n.小屋，村舍；on the estate n.财产，遗产，大片私有土地，庄园；tractor n.拖拉机，牵引机
+
+
 
 C13 Test2 Section2
 
