@@ -27,6 +27,29 @@ C16 Test1 Section2
 19.I. The human resources department is at the front of this building, so you head to the left along the corridor from reception, and it’s the second room you come to.
 20.A. the boardroom, where you’ll be meeting sometimes. Go along the corridor past the courtyard, right to the end. The boardroom is on the left, next to the factory.
 
+拼写错误：
+发音不熟：
+漏听：
+生词：agenda ；carry out；the state of；potholes ；addressed；commuters ；reduction ；pedestrians ；immediate ；rumours ；bend ；signs up；fumes；chained to；on the opposite side of；right next to it；the east of；current location；stray balls；by a footpath；alongside the river；in the southeast corner； the left of； near to；
+
+
+C16 Test4 Section2
+
+15.C. New car park
+so we’re suggesting a new car park on the opposite side of the Community Hall, right next to it.
+16.F. New cricket pitch
+As we’ve now purchased additional space to the east of the recreation ground, beyond the trees.
+17.A. Children's playground
+We’ve got plans for a children’s playground which will be accessible by a footpath from the Community Hall and will be alongside the river.
+18.I. Skateboard ramp
+but in the end we decided to have it in the southeast corner near the road.
+19.E. Pavilion
+It will stay where it is now – to the left of the line of trees and near to the river – handy for both the football and cricket pitches.
+20.H. Notice board
+that will be directly on people’s right as they go from the road into the recreation ground.
+
+
+
 
 
 C12 Test7 Section3

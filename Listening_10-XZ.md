@@ -155,6 +155,58 @@ It’s fine in summer, but can be extremely unpleasant when it’s cold and wind
 部门，分区；be stuck with 无法摆脱；juggle work with 兼顾工作和其他；rural setting 农村背景；a big plus 一个很大的优势；is keen to do 渴望做；be pretty fit for 非常适合；standard of ……的标准；work-related accidents 与工作相关的事故；in pretty remote areas 在相当偏远的地区；turns out v.（以某种方式）发生，最后是，结果是，出席，参加，前去观看，关掉，熄灭（电灯、煤气等），生产，制造；a range of 一系列，一些，一套；fast-paced environment 快节奏的环境；low profit margins 低利润率；work hard 努力工作；play hard 尽情地玩；a sociable personality 善于交际的性格；crop nutrition 作物营养；protection against pests 防虫；make their way up 向上攀登；career ladder 职业阶梯；a deep knowledge of 深刻的知识；maternity cover contract 生育保险合同；a very competitive salary 非常有竞争力的薪水；a chain of 一系列的；live in the region 在当地居住；a vacancy for 职位空缺；carry out vt.执行，实行，贯彻，实现，完成；in safety procedures 在安全程序中；appropriate adj.合适的，相称的；farm duties 农业职责；crop sowing 作物播种；harvesting n.收割，收获；perks n.特权，额外津贴（perk 的复数），特别待遇；cottage n.小屋，村舍；on the estate n.财产，遗产，大片私有土地，庄园；tractor n.拖拉机，牵引机
 
 
+C16 T3 Section3
+
+21.C. large sample of people was tested.
+especially as I had so many people doing it.
+22.D. The subjects were unaware of what they were drinking.
+especially how I could make sure that people didn’t know which drink I was giving them.
+23.C.She did not grind the nuts finely enough.
+I think I should probably have ground up the nuts more than I did.
+24.E.The weighing scales may have been unsuitable.
+It’s possible that the scales for weighing the fat weren’t accurate enough, too.
+25.C.were organised in a particular way.
+So, if you put the low-calorie items at the beginning and end of the menu, people will probably go for the food with fewer calories.
+26.A.make calorie counts hard to understand.
+they’re sometimes really confusing and I suspect they do it on purpose.
+27.B.Most people overestimate how much they do.
+you find that only 6% of men and 4% of women do the recommended amount of exercise.
+28.A.practical changes that can influence people’s behaviour.
+If people reach the stairs before they reach the escalator when they’re leaving the station, they’re more likely to take the stairs.
+29.A.They should probably leave it out.
+but it’s going to mean we have a very wide focus, and our tutor did say that we need to focus on causes and solutions in terms of nutrition.
+30.C.decide on its content and organisation.
+Let’s think about what we’re going to include and what will go where.
+
+漏听：
+生词：diet and obesity；real sugar ；keep track of；ground up；absorb the fat；reckon ；artificial sweeteners；items ；menu ；manufacturers；on purpose；per quarter pizza；guidelines ；brisk walking；objectively measure；motion sensors；recommended amount；stairs ；unconscious process；minor modifications；adds up；in terms of；simpler；
+
+
+C16 T4 Section2
+
+11.C.changes in the type of traffic.
+but a significant number of people complained about the increasing number of heavy vehicles using our local roads to avoid traffic elsewhere.
+12.A.It will be widened.
+but overtaking can be a problem so we’re going to add a bit on the side to make it wider.
+13.B.the proposed location is unsafe.
+but the Highways Department have told us that it would be dangerous to have a pedestrian crossing where we’d originally planned it as there’s a bend in the road there.
+14.B.asking motorists to switch off engines when waiting at the level crossing.
+and we’ve now got signs up requesting them not to leave their engines running at that time.
+
+
+C16 T4 Section3
+
+21.B.reducing traffic congestion
+And also helped to cut the number of cars on the road significantly.
+22.C.improving air quality
+the impact of reduced emissions on air pollution have a more significant effect on people’s health.
+23.B.The app should be easy to use.
+like a fully functional app – so people can make payments and book bikes easily.
+24.C.Public awareness should be raised.
+What does matter though – is having a big publicity campaign. People need a lot of persuasion to stop using their cars.
+
+漏听：
+生词：
 
 C13 Test2 Section2
 

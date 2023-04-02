@@ -56,6 +56,26 @@ C17 T2 Part3
 26.They were both disappointed by this=wasted/didn’t have much impact/shame.
 27.They disagree about why this was an issue=I actually didn’t have a problem with that.
 
+C16 T4 Section3
+
+25.C. Amsterdam They are surprised it has been so successful.
+In a way it’s strange that there was such a demand for bike-sharing because you’d have thought most people would have used their own bikes.
+26.F. Dublin They disagree about the reasons for its success.
+It must be because the public transport system’s quite limited. Not really – there’s no underground.
+27.D.London They agree that more investment is required.
+The London scheme’s been quite successful. Basically, not enough’s been spent on increasing the number of cycle lanes. Hopefully that’ll change.
+28.E.Buenos Aires They think the system has been well designed.
+Well bike-sharing schemes have taken off in places like Buenos Aires.  An example of good planning.
+29.B.New York They think it should be cheaper. 
+More than it costs to take a taxi. Crazy.
+30.A.Sydney They agree it has been disappointing.
+Sydney would be a good example to use. I can’t quite work out why it hasn’t been an instant success like some of the others. It’s a shame really.
+
+漏听：
+生词：
+
+
+
 C12 Test5 Section2
 
 17.Joy Parkins. F. during the day and how long.

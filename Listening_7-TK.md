@@ -174,6 +174,96 @@ C16 Test3 Section1
 生词：upwards adv.向上，在上部，向上游；start off 出发，开始；instructors n.教练，讲师，指导书；supervisors n.监察人；stand in 当替身；put it off 延后，搁置；waterproofs n.防水衣物，雨衣；fit v.（衣服）合身；可容纳；
 
 
+C16 Test3 Section4
+
+31.grandmother. 
+we might well picture an elderly person – a grandmother perhaps.
+32.decade. 
+during the previous decade.
+33.equipment. 
+we’re also seeing an increase in the sales figures for knitting equipment.
+34.economic. 
+it’s still true today that knitting can be helpful if you’re experiencing economic hardship.
+35.basic. 
+even though the skills you need to get going are really quite basic and the financial outlay is minimal.
+36.round. 
+most of the items produced were round rather than flat.
+37.bone. 
+the very first needles people used were hand carved out of wood and other natural materials, like bone.
+38.rough. 
+Ancient people knitted using yarns made from linen, hemp, cotton and wool, and these were often very rough on the skin.
+39.style. 
+regional differences in style developed.
+40.sheep. 
+it seems, men, women and children took every opportunity to knit, for example, while watching over sheep.
+
+
+拼写错误：；
+发音不熟：tent n.帐篷；
+漏听：rough adj.（表面）粗糙的，不平的；
+生词：hand knitting 手工编织；garments ；homely ；vanish ；sewn ；craft-based ；outlay；minimal；gloves；patterns ；linen；hemp；yarns ；identity ；
+
+
+
+C16 Test4 Section1
+
+1.28th. 
+It’s free the week beginning the 28th.
+2.550. 
+That’s the beginning of high season, so it’d be £550 for the week.
+3.Chervil. 
+Chervil. C-H-E-R-V for Victor I-L.
+4.garage. 
+The building was built as a garage.
+5.garden. 
+Does it have a garden. Yes, you get to it from the living room through French doors.
+6.parking. 
+parking isn’t a problem – there’s plenty of room at the front for that.
+7.wood.
+We can provide all the wood you need for it.
+8.bridge. 
+There’s a famous stone bridge – it’s one of the oldest in the region, and you can see it  from the living room.
+9.monument. 
+The bedroom window looks in the opposite direction, and has a lovely view of the hills and the monument at the top.
+10.March. 
+You’re coming in May, so the last day of March.
+
+拼写错误：
+发音不熟：
+漏听：
+生词：monument n.纪念碑，纪念馆，纪念物；cottages ；have in mind 考虑，想到；deckchairs ；farmyard； potted plants；facilities ；coal； 
+
+
+C16 Test4 Section4
+
+31.spice|spices. 
+The sailors were carrying spices back to Europe.
+32.colony|settlement. 
+However, in 1638 the Dutch arrived and set up a colony there.
+33.fat. 
+The best-known picture is a Dutch painting in which the bird appears to be extremely fat.
+34.head. 
+so only one example of soft tissue from the dodo survives, a dodo head.
+35.movement. 
+but scientists now believe the bird’s strong knee joints would have made it capable of movement which was not slow.
+36.balance|balancing. 
+but the scientists suggest that these were probably employed for balance while going over uneven ground.
+37.brain.
+which suggested the bird’s brain was not small, but average in size.
+38.smell. 
+The researchers also found that the structure of the bird’s skull suggested that one sense which was particularly well-developed was that of smell. So the dodo may also have been particularly good at locating ripe fruit and other food in the island’s thick vegetation.
+39.rats. 
+rats, which came to land from the ships and rapidly overran the island. These upset the ecology of the island, not just the dodos but other species too. However, they were a particular danger to the dodos because they consumed their eggs.
+40.forest. 
+This meant that the forest that had once covered all the island.
+
+拼写错误：
+发音不熟：
+漏听：
+生词：spice n.香料；colony n.殖民地；
+
+
+
 
 C12 Test5 Section1
 
